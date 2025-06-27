@@ -1,0 +1,2881 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/recetas",
+          "urlHash": "0cb99c4eedd9c39ae76d78b65a451be5ad6ca3c8",
+          "uuid": "0cb99c4e-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/",
+          "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+          "uuid": "12e26071-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/flan-proteico-de-yogur-y-fresa",
+          "urlHash": "1696eeb18ee272df4e58ea965f33e607c30e2c53",
+          "uuid": "1696eeb1-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-proteina",
+          "urlHash": "18b6bff33d8c3a2d1cebb2547e48e299f8860e7c",
+          "uuid": "18b6bff3-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-leche-con-canela",
+          "urlHash": "1bc8a6b94289fc74d35708191fc66ff739ed31c6",
+          "uuid": "1bc8a6b9-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-frutos-rojos",
+          "urlHash": "2d7621940bd8aa32f336b3174f6247fc95149d9b",
+          "uuid": "2d762194-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/risotto-de-champinones",
+          "urlHash": "2d9eb396bd007bb9922ad1aa93d773d5c3ed53d6",
+          "uuid": "2d9eb396-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/aviso-legal",
+          "urlHash": "2dbd32f669c3ec861b1b9e5d93baa8d0cc3e9596",
+          "uuid": "2dbd32f6-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/blog/claves-para-envejecer-de-manera-saludable",
+          "urlHash": "3017f872ac1e5349350a1c6d94cdee8934207182",
+          "uuid": "3017f872-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recomendador",
+          "urlHash": "32b2d1104c0a6c58cf68ffb9cae1fdb29974824e",
+          "uuid": "32b2d110-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/gloupr-zero",
+          "urlHash": "479f1d43310e92f89794799db933181d3024377e",
+          "uuid": "479f1d43-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-db-creme",
+          "urlHash": "47f67d356e21207e6c49ef3a292930b2fdd4143f",
+          "uuid": "47f67d35-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/politica-de-cookies",
+          "urlHash": "4d8a9b9c3fb62d93446d69db82f26f435fbe49fb",
+          "uuid": "4d8a9b9c-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-complet",
+          "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+          "uuid": "5d27aba1-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-yocreme",
+          "urlHash": "5df71c123de058146fa6c737a861ae4f33fb0571",
+          "uuid": "5df71c12-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/home",
+          "urlHash": "70f375f2dd9e5e2a4746f0ec6eeafc9913d55aab",
+          "uuid": "70f375f2-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-sandia",
+          "urlHash": "798693e336a5139b14910653d9dc6dc5e2c3e6bf",
+          "uuid": "798693e3-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-32-kcal-drink",
+          "urlHash": "7de3c6215a5c743585da3ed8a2aeac936d93602f",
+          "uuid": "7de3c621-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-chocolate",
+          "urlHash": "84c25f939c55d7ebddebfb69abced5aa955ec2df",
+          "uuid": "84c25f93-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/politica-de-privacidad",
+          "urlHash": "89028bd37fca7ca9dbc13f104b0b5c2ff30b87e9",
+          "uuid": "89028bd3-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-2-kcal-creme",
+          "urlHash": "9b26c0d6ea3c06821f481d069d92f488662ee57a",
+          "uuid": "9b26c0d6-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/blog",
+          "urlHash": "a443702b5155e241d7df372c8bc3e55ab3117d01",
+          "uuid": "a443702b-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-multifrutas-con-proteina",
+          "urlHash": "a98998988c2e8ccc933940cf486f4bc23ea69abe",
+          "uuid": "a9899898-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-tiramisu",
+          "urlHash": "b360762337b84032ce457b29a36452a309f1c465",
+          "uuid": "b3607623-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos",
+          "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+          "uuid": "bf69d9dd-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/quienes-somos",
+          "urlHash": "c3faef59f95b33d70041f421ef3f5e56e45fbfac",
+          "uuid": "c3faef59-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-platano",
+          "urlHash": "cea75c4e2fa9b64712f704374cc76bbb409fc461",
+          "uuid": "cea75c4e-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-yodrink",
+          "urlHash": "d4c944c2df990161e19962bd64a44906af9fa7b8",
+          "uuid": "d4c944c2-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-chocolate-y-cacahuete",
+          "urlHash": "dbedb7a3cee9feaeee287993a4e2620ccc8b807e",
+          "uuid": "dbedb7a3-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/blog/la-importancia-de-las-proteinas-en-las-personas-mayores",
+          "urlHash": "eb35e9a244ee91ff0087b7fde137f66ff8b61a6a",
+          "uuid": "eb35e9a2-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-vainilla",
+          "urlHash": "f1d23b69c6d91bb57cff684d3a32c717038c9a00",
+          "uuid": "f1d23b69-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/granizado-de-cafe",
+          "urlHash": "f2cfea112abf098f96464014fa6b51c18755779f",
+          "uuid": "f2cfea11-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-control",
+          "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+          "uuid": "f3d05567-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/recetas",
+          "urlHash": "0cb99c4eedd9c39ae76d78b65a451be5ad6ca3c8",
+          "uuid": "0cb99c4e-05-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas",
+          "urlHash": "0cb99c4eedd9c39ae76d78b65a451be5ad6ca3c8",
+          "uuid": "0cb99c4e-04-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/",
+          "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+          "uuid": "12e26071-15-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/",
+          "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+          "uuid": "12e26071-14-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/flan-proteico-de-yogur-y-fresa",
+          "urlHash": "1696eeb18ee272df4e58ea965f33e607c30e2c53",
+          "uuid": "1696eeb1-09-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/flan-proteico-de-yogur-y-fresa",
+          "urlHash": "1696eeb18ee272df4e58ea965f33e607c30e2c53",
+          "uuid": "1696eeb1-08-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-proteina",
+          "urlHash": "18b6bff33d8c3a2d1cebb2547e48e299f8860e7c",
+          "uuid": "18b6bff3-13-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-proteina",
+          "urlHash": "18b6bff33d8c3a2d1cebb2547e48e299f8860e7c",
+          "uuid": "18b6bff3-12-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-leche-con-canela",
+          "urlHash": "1bc8a6b94289fc74d35708191fc66ff739ed31c6",
+          "uuid": "1bc8a6b9-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-leche-con-canela",
+          "urlHash": "1bc8a6b94289fc74d35708191fc66ff739ed31c6",
+          "uuid": "1bc8a6b9-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-frutos-rojos",
+          "urlHash": "2d7621940bd8aa32f336b3174f6247fc95149d9b",
+          "uuid": "2d762194-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-frutos-rojos",
+          "urlHash": "2d7621940bd8aa32f336b3174f6247fc95149d9b",
+          "uuid": "2d762194-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/risotto-de-champinones",
+          "urlHash": "2d9eb396bd007bb9922ad1aa93d773d5c3ed53d6",
+          "uuid": "2d9eb396-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/risotto-de-champinones",
+          "urlHash": "2d9eb396bd007bb9922ad1aa93d773d5c3ed53d6",
+          "uuid": "2d9eb396-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/aviso-legal",
+          "urlHash": "2dbd32f669c3ec861b1b9e5d93baa8d0cc3e9596",
+          "uuid": "2dbd32f6-03-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/aviso-legal",
+          "urlHash": "2dbd32f669c3ec861b1b9e5d93baa8d0cc3e9596",
+          "uuid": "2dbd32f6-02-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/blog/claves-para-envejecer-de-manera-saludable",
+          "urlHash": "3017f872ac1e5349350a1c6d94cdee8934207182",
+          "uuid": "3017f872-05-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/blog/claves-para-envejecer-de-manera-saludable",
+          "urlHash": "3017f872ac1e5349350a1c6d94cdee8934207182",
+          "uuid": "3017f872-04-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recomendador",
+          "urlHash": "32b2d1104c0a6c58cf68ffb9cae1fdb29974824e",
+          "uuid": "32b2d110-06-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/recomendador",
+          "urlHash": "32b2d1104c0a6c58cf68ffb9cae1fdb29974824e",
+          "uuid": "32b2d110-05-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/gloupr-zero",
+          "urlHash": "479f1d43310e92f89794799db933181d3024377e",
+          "uuid": "479f1d43-11-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/gloupr-zero",
+          "urlHash": "479f1d43310e92f89794799db933181d3024377e",
+          "uuid": "479f1d43-10-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-db-creme",
+          "urlHash": "47f67d356e21207e6c49ef3a292930b2fdd4143f",
+          "uuid": "47f67d35-11-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-db-creme",
+          "urlHash": "47f67d356e21207e6c49ef3a292930b2fdd4143f",
+          "uuid": "47f67d35-10-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/politica-de-cookies",
+          "urlHash": "4d8a9b9c3fb62d93446d69db82f26f435fbe49fb",
+          "uuid": "4d8a9b9c-03-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/politica-de-cookies",
+          "urlHash": "4d8a9b9c3fb62d93446d69db82f26f435fbe49fb",
+          "uuid": "4d8a9b9c-02-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-complet",
+          "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+          "uuid": "5d27aba1-18-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-complet",
+          "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+          "uuid": "5d27aba1-17-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-yocreme",
+          "urlHash": "5df71c123de058146fa6c737a861ae4f33fb0571",
+          "uuid": "5df71c12-11-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-yocreme",
+          "urlHash": "5df71c123de058146fa6c737a861ae4f33fb0571",
+          "uuid": "5df71c12-10-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/home",
+          "urlHash": "70f375f2dd9e5e2a4746f0ec6eeafc9913d55aab",
+          "uuid": "70f375f2-15-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/home",
+          "urlHash": "70f375f2dd9e5e2a4746f0ec6eeafc9913d55aab",
+          "uuid": "70f375f2-14-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-sandia",
+          "urlHash": "798693e336a5139b14910653d9dc6dc5e2c3e6bf",
+          "uuid": "798693e3-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-sandia",
+          "urlHash": "798693e336a5139b14910653d9dc6dc5e2c3e6bf",
+          "uuid": "798693e3-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-32-kcal-drink",
+          "urlHash": "7de3c6215a5c743585da3ed8a2aeac936d93602f",
+          "uuid": "7de3c621-11-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-32-kcal-drink",
+          "urlHash": "7de3c6215a5c743585da3ed8a2aeac936d93602f",
+          "uuid": "7de3c621-10-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-chocolate",
+          "urlHash": "84c25f939c55d7ebddebfb69abced5aa955ec2df",
+          "uuid": "84c25f93-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-chocolate",
+          "urlHash": "84c25f939c55d7ebddebfb69abced5aa955ec2df",
+          "uuid": "84c25f93-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/politica-de-privacidad",
+          "urlHash": "89028bd37fca7ca9dbc13f104b0b5c2ff30b87e9",
+          "uuid": "89028bd3-03-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/politica-de-privacidad",
+          "urlHash": "89028bd37fca7ca9dbc13f104b0b5c2ff30b87e9",
+          "uuid": "89028bd3-02-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-2-kcal-creme",
+          "urlHash": "9b26c0d6ea3c06821f481d069d92f488662ee57a",
+          "uuid": "9b26c0d6-11-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-2-kcal-creme",
+          "urlHash": "9b26c0d6ea3c06821f481d069d92f488662ee57a",
+          "uuid": "9b26c0d6-10-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/blog",
+          "urlHash": "a443702b5155e241d7df372c8bc3e55ab3117d01",
+          "uuid": "a443702b-03-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/blog",
+          "urlHash": "a443702b5155e241d7df372c8bc3e55ab3117d01",
+          "uuid": "a443702b-02-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-multifrutas-con-proteina",
+          "urlHash": "a98998988c2e8ccc933940cf486f4bc23ea69abe",
+          "uuid": "a9899898-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-multifrutas-con-proteina",
+          "urlHash": "a98998988c2e8ccc933940cf486f4bc23ea69abe",
+          "uuid": "a9899898-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-tiramisu",
+          "urlHash": "b360762337b84032ce457b29a36452a309f1c465",
+          "uuid": "b3607623-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-tiramisu",
+          "urlHash": "b360762337b84032ce457b29a36452a309f1c465",
+          "uuid": "b3607623-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos",
+          "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+          "uuid": "bf69d9dd-19-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/productos",
+          "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+          "uuid": "bf69d9dd-18-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/quienes-somos",
+          "urlHash": "c3faef59f95b33d70041f421ef3f5e56e45fbfac",
+          "uuid": "c3faef59-03-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/quienes-somos",
+          "urlHash": "c3faef59f95b33d70041f421ef3f5e56e45fbfac",
+          "uuid": "c3faef59-02-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-platano",
+          "urlHash": "cea75c4e2fa9b64712f704374cc76bbb409fc461",
+          "uuid": "cea75c4e-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-platano",
+          "urlHash": "cea75c4e2fa9b64712f704374cc76bbb409fc461",
+          "uuid": "cea75c4e-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-yodrink",
+          "urlHash": "d4c944c2df990161e19962bd64a44906af9fa7b8",
+          "uuid": "d4c944c2-10-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-yodrink",
+          "urlHash": "d4c944c2df990161e19962bd64a44906af9fa7b8",
+          "uuid": "d4c944c2-09-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-chocolate-y-cacahuete",
+          "urlHash": "dbedb7a3cee9feaeee287993a4e2620ccc8b807e",
+          "uuid": "dbedb7a3-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-chocolate-y-cacahuete",
+          "urlHash": "dbedb7a3cee9feaeee287993a4e2620ccc8b807e",
+          "uuid": "dbedb7a3-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/blog/la-importancia-de-las-proteinas-en-las-personas-mayores",
+          "urlHash": "eb35e9a244ee91ff0087b7fde137f66ff8b61a6a",
+          "uuid": "eb35e9a2-03-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/blog/la-importancia-de-las-proteinas-en-las-personas-mayores",
+          "urlHash": "eb35e9a244ee91ff0087b7fde137f66ff8b61a6a",
+          "uuid": "eb35e9a2-02-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-vainilla",
+          "urlHash": "f1d23b69c6d91bb57cff684d3a32c717038c9a00",
+          "uuid": "f1d23b69-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-vainilla",
+          "urlHash": "f1d23b69c6d91bb57cff684d3a32c717038c9a00",
+          "uuid": "f1d23b69-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/granizado-de-cafe",
+          "urlHash": "f2cfea112abf098f96464014fa6b51c18755779f",
+          "uuid": "f2cfea11-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/granizado-de-cafe",
+          "urlHash": "f2cfea112abf098f96464014fa6b51c18755779f",
+          "uuid": "f2cfea11-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-control",
+          "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+          "uuid": "f3d05567-18-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-control",
+          "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+          "uuid": "f3d05567-17-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Cards",
+      "cluster": 1,
+      "source": "Cards",
+      "target": "Cards (cards1)",
+      "key": "cards1",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/",
+          "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+          "uuid": "12e26071-13-88b4bbdf6aacdf2377d6d21b7e592a1433bd8009",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/flan-proteico-de-yogur-y-fresa",
+          "urlHash": "1696eeb18ee272df4e58ea965f33e607c30e2c53",
+          "uuid": "1696eeb1-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-leche-con-canela",
+          "urlHash": "1bc8a6b94289fc74d35708191fc66ff739ed31c6",
+          "uuid": "1bc8a6b9-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-frutos-rojos",
+          "urlHash": "2d7621940bd8aa32f336b3174f6247fc95149d9b",
+          "uuid": "2d762194-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/risotto-de-champinones",
+          "urlHash": "2d9eb396bd007bb9922ad1aa93d773d5c3ed53d6",
+          "uuid": "2d9eb396-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/home",
+          "urlHash": "70f375f2dd9e5e2a4746f0ec6eeafc9913d55aab",
+          "uuid": "70f375f2-13-88b4bbdf6aacdf2377d6d21b7e592a1433bd8009",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-sandia",
+          "urlHash": "798693e336a5139b14910653d9dc6dc5e2c3e6bf",
+          "uuid": "798693e3-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-chocolate",
+          "urlHash": "84c25f939c55d7ebddebfb69abced5aa955ec2df",
+          "uuid": "84c25f93-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-multifrutas-con-proteina",
+          "urlHash": "a98998988c2e8ccc933940cf486f4bc23ea69abe",
+          "uuid": "a9899898-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-tiramisu",
+          "urlHash": "b360762337b84032ce457b29a36452a309f1c465",
+          "uuid": "b3607623-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos",
+          "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+          "uuid": "bf69d9dd-17-052521ec49514edb8db68fd7c36079e5b3d54fd5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-platano",
+          "urlHash": "cea75c4e2fa9b64712f704374cc76bbb409fc461",
+          "uuid": "cea75c4e-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-chocolate-y-cacahuete",
+          "urlHash": "dbedb7a3cee9feaeee287993a4e2620ccc8b807e",
+          "uuid": "dbedb7a3-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-vainilla",
+          "urlHash": "f1d23b69c6d91bb57cff684d3a32c717038c9a00",
+          "uuid": "f1d23b69-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/granizado-de-cafe",
+          "urlHash": "f2cfea112abf098f96464014fa6b51c18755779f",
+          "uuid": "f2cfea11-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 2,
+      "key": "hero2",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/productos/kabi-proteina",
+          "urlHash": "18b6bff33d8c3a2d1cebb2547e48e299f8860e7c",
+          "uuid": "18b6bff3-01-dd6c396ca4eb0aa68343c621a6420a0ada0b3a5e",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/gloupr-zero",
+          "urlHash": "479f1d43310e92f89794799db933181d3024377e",
+          "uuid": "479f1d43-01-dd6c396ca4eb0aa68343c621a6420a0ada0b3a5e",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-db-creme",
+          "urlHash": "47f67d356e21207e6c49ef3a292930b2fdd4143f",
+          "uuid": "47f67d35-01-dd6c396ca4eb0aa68343c621a6420a0ada0b3a5e",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-complet",
+          "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+          "uuid": "5d27aba1-01-dd6c396ca4eb0aa68343c621a6420a0ada0b3a5e",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-yocreme",
+          "urlHash": "5df71c123de058146fa6c737a861ae4f33fb0571",
+          "uuid": "5df71c12-01-dd6c396ca4eb0aa68343c621a6420a0ada0b3a5e",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-32-kcal-drink",
+          "urlHash": "7de3c6215a5c743585da3ed8a2aeac936d93602f",
+          "uuid": "7de3c621-01-dd6c396ca4eb0aa68343c621a6420a0ada0b3a5e",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-2-kcal-creme",
+          "urlHash": "9b26c0d6ea3c06821f481d069d92f488662ee57a",
+          "uuid": "9b26c0d6-01-dd6c396ca4eb0aa68343c621a6420a0ada0b3a5e",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-yodrink",
+          "urlHash": "d4c944c2df990161e19962bd64a44906af9fa7b8",
+          "uuid": "d4c944c2-01-dd6c396ca4eb0aa68343c621a6420a0ada0b3a5e",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-control",
+          "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+          "uuid": "f3d05567-01-dd6c396ca4eb0aa68343c621a6420a0ada0b3a5e",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 3,
+      "source": "Header",
+      "target": "Header (header3)",
+      "key": "header3",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/",
+          "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+          "uuid": "12e26071-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-proteina",
+          "urlHash": "18b6bff33d8c3a2d1cebb2547e48e299f8860e7c",
+          "uuid": "18b6bff3-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/gloupr-zero",
+          "urlHash": "479f1d43310e92f89794799db933181d3024377e",
+          "uuid": "479f1d43-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-db-creme",
+          "urlHash": "47f67d356e21207e6c49ef3a292930b2fdd4143f",
+          "uuid": "47f67d35-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-complet",
+          "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+          "uuid": "5d27aba1-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-yocreme",
+          "urlHash": "5df71c123de058146fa6c737a861ae4f33fb0571",
+          "uuid": "5df71c12-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/home",
+          "urlHash": "70f375f2dd9e5e2a4746f0ec6eeafc9913d55aab",
+          "uuid": "70f375f2-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-32-kcal-drink",
+          "urlHash": "7de3c6215a5c743585da3ed8a2aeac936d93602f",
+          "uuid": "7de3c621-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-2-kcal-creme",
+          "urlHash": "9b26c0d6ea3c06821f481d069d92f488662ee57a",
+          "uuid": "9b26c0d6-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-yodrink",
+          "urlHash": "d4c944c2df990161e19962bd64a44906af9fa7b8",
+          "uuid": "d4c944c2-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-control",
+          "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+          "uuid": "f3d05567-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 4,
+      "source": "Columns",
+      "target": "Columns (columns4)",
+      "key": "columns4",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/productos/gloupr-zero",
+          "urlHash": "479f1d43310e92f89794799db933181d3024377e",
+          "uuid": "479f1d43-04-052521ec49514edb8db68fd7c36079e5b3d54fd5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-db-creme",
+          "urlHash": "47f67d356e21207e6c49ef3a292930b2fdd4143f",
+          "uuid": "47f67d35-04-052521ec49514edb8db68fd7c36079e5b3d54fd5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-yocreme",
+          "urlHash": "5df71c123de058146fa6c737a861ae4f33fb0571",
+          "uuid": "5df71c12-04-052521ec49514edb8db68fd7c36079e5b3d54fd5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-32-kcal-drink",
+          "urlHash": "7de3c6215a5c743585da3ed8a2aeac936d93602f",
+          "uuid": "7de3c621-04-052521ec49514edb8db68fd7c36079e5b3d54fd5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-2-kcal-creme",
+          "urlHash": "9b26c0d6ea3c06821f481d069d92f488662ee57a",
+          "uuid": "9b26c0d6-04-052521ec49514edb8db68fd7c36079e5b3d54fd5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-yodrink",
+          "urlHash": "d4c944c2df990161e19962bd64a44906af9fa7b8",
+          "uuid": "d4c944c2-04-052521ec49514edb8db68fd7c36079e5b3d54fd5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "source": "Columns",
+      "target": "Columns (columns5)",
+      "key": "columns5",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/recetas/flan-proteico-de-yogur-y-fresa",
+          "urlHash": "1696eeb18ee272df4e58ea965f33e607c30e2c53",
+          "uuid": "1696eeb1-03-df0af5c6926e1ab6a2beb4698dbae86b0b039f6d",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[5]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-multifrutas-con-proteina",
+          "urlHash": "a98998988c2e8ccc933940cf486f4bc23ea69abe",
+          "uuid": "a9899898-03-df0af5c6926e1ab6a2beb4698dbae86b0b039f6d",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 6,
+      "source": "Columns",
+      "target": "Columns (columns6)",
+      "key": "columns6",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/recetas",
+          "urlHash": "0cb99c4eedd9c39ae76d78b65a451be5ad6ca3c8",
+          "uuid": "0cb99c4e-04-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/",
+          "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+          "uuid": "12e26071-14-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/flan-proteico-de-yogur-y-fresa",
+          "urlHash": "1696eeb18ee272df4e58ea965f33e607c30e2c53",
+          "uuid": "1696eeb1-08-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-proteina",
+          "urlHash": "18b6bff33d8c3a2d1cebb2547e48e299f8860e7c",
+          "uuid": "18b6bff3-12-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-leche-con-canela",
+          "urlHash": "1bc8a6b94289fc74d35708191fc66ff739ed31c6",
+          "uuid": "1bc8a6b9-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-frutos-rojos",
+          "urlHash": "2d7621940bd8aa32f336b3174f6247fc95149d9b",
+          "uuid": "2d762194-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/risotto-de-champinones",
+          "urlHash": "2d9eb396bd007bb9922ad1aa93d773d5c3ed53d6",
+          "uuid": "2d9eb396-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/aviso-legal",
+          "urlHash": "2dbd32f669c3ec861b1b9e5d93baa8d0cc3e9596",
+          "uuid": "2dbd32f6-02-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/blog/claves-para-envejecer-de-manera-saludable",
+          "urlHash": "3017f872ac1e5349350a1c6d94cdee8934207182",
+          "uuid": "3017f872-04-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recomendador",
+          "urlHash": "32b2d1104c0a6c58cf68ffb9cae1fdb29974824e",
+          "uuid": "32b2d110-05-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/gloupr-zero",
+          "urlHash": "479f1d43310e92f89794799db933181d3024377e",
+          "uuid": "479f1d43-10-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-db-creme",
+          "urlHash": "47f67d356e21207e6c49ef3a292930b2fdd4143f",
+          "uuid": "47f67d35-10-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/politica-de-cookies",
+          "urlHash": "4d8a9b9c3fb62d93446d69db82f26f435fbe49fb",
+          "uuid": "4d8a9b9c-02-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-complet",
+          "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+          "uuid": "5d27aba1-17-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-yocreme",
+          "urlHash": "5df71c123de058146fa6c737a861ae4f33fb0571",
+          "uuid": "5df71c12-10-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/home",
+          "urlHash": "70f375f2dd9e5e2a4746f0ec6eeafc9913d55aab",
+          "uuid": "70f375f2-14-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-sandia",
+          "urlHash": "798693e336a5139b14910653d9dc6dc5e2c3e6bf",
+          "uuid": "798693e3-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-32-kcal-drink",
+          "urlHash": "7de3c6215a5c743585da3ed8a2aeac936d93602f",
+          "uuid": "7de3c621-10-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-chocolate",
+          "urlHash": "84c25f939c55d7ebddebfb69abced5aa955ec2df",
+          "uuid": "84c25f93-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/politica-de-privacidad",
+          "urlHash": "89028bd37fca7ca9dbc13f104b0b5c2ff30b87e9",
+          "uuid": "89028bd3-02-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-2-kcal-creme",
+          "urlHash": "9b26c0d6ea3c06821f481d069d92f488662ee57a",
+          "uuid": "9b26c0d6-10-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/blog",
+          "urlHash": "a443702b5155e241d7df372c8bc3e55ab3117d01",
+          "uuid": "a443702b-02-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-multifrutas-con-proteina",
+          "urlHash": "a98998988c2e8ccc933940cf486f4bc23ea69abe",
+          "uuid": "a9899898-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-tiramisu",
+          "urlHash": "b360762337b84032ce457b29a36452a309f1c465",
+          "uuid": "b3607623-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos",
+          "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+          "uuid": "bf69d9dd-18-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/quienes-somos",
+          "urlHash": "c3faef59f95b33d70041f421ef3f5e56e45fbfac",
+          "uuid": "c3faef59-02-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-platano",
+          "urlHash": "cea75c4e2fa9b64712f704374cc76bbb409fc461",
+          "uuid": "cea75c4e-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-yodrink",
+          "urlHash": "d4c944c2df990161e19962bd64a44906af9fa7b8",
+          "uuid": "d4c944c2-09-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-chocolate-y-cacahuete",
+          "urlHash": "dbedb7a3cee9feaeee287993a4e2620ccc8b807e",
+          "uuid": "dbedb7a3-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/blog/la-importancia-de-las-proteinas-en-las-personas-mayores",
+          "urlHash": "eb35e9a244ee91ff0087b7fde137f66ff8b61a6a",
+          "uuid": "eb35e9a2-02-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-vainilla",
+          "urlHash": "f1d23b69c6d91bb57cff684d3a32c717038c9a00",
+          "uuid": "f1d23b69-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/granizado-de-cafe",
+          "urlHash": "f2cfea112abf098f96464014fa6b51c18755779f",
+          "uuid": "f2cfea11-07-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-control",
+          "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+          "uuid": "f3d05567-17-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 7,
+      "source": "Cards",
+      "target": "Cards (cards7)",
+      "key": "cards7",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/productos",
+          "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+          "uuid": "bf69d9dd-04-5635fff8552586b351ed09fa1ee027e28483506d",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/productos",
+          "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+          "uuid": "bf69d9dd-07-0ce34f003826ee74f25518ce7f8f45d9c5ab0ee1",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.kabi.es/productos",
+          "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+          "uuid": "bf69d9dd-09-1fd0cda68a1fffe2817952e7286e8c7a231882ee",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[7]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 8,
+      "source": "Columns",
+      "target": "Columns (columns8)",
+      "key": "columns8",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-frutos-rojos",
+          "urlHash": "2d7621940bd8aa32f336b3174f6247fc95149d9b",
+          "uuid": "2d762194-03-df0af5c6926e1ab6a2beb4698dbae86b0b039f6d",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[5]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-chocolate",
+          "urlHash": "84c25f939c55d7ebddebfb69abced5aa955ec2df",
+          "uuid": "84c25f93-03-df0af5c6926e1ab6a2beb4698dbae86b0b039f6d",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 9,
+      "source": "Columns",
+      "target": "Columns (columns9)",
+      "key": "columns9",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/productos/kabi-complet",
+          "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+          "uuid": "5d27aba1-10-97ff20def6754e1cedbc1abd551a47843e3bfa34",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]/ul[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-control",
+          "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+          "uuid": "f3d05567-10-97ff20def6754e1cedbc1abd551a47843e3bfa34",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]/ul[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 10,
+      "source": "Columns",
+      "target": "Columns (columns10)",
+      "key": "columns10",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/productos/kabi-proteina",
+          "urlHash": "18b6bff33d8c3a2d1cebb2547e48e299f8860e7c",
+          "uuid": "18b6bff3-08-ffa282119f752079ecb5e25446de6a1864437b04",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/gloupr-zero",
+          "urlHash": "479f1d43310e92f89794799db933181d3024377e",
+          "uuid": "479f1d43-08-ffa282119f752079ecb5e25446de6a1864437b04",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 11,
+      "source": "Columns",
+      "target": "Columns (columns11)",
+      "key": "columns11",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-db-creme",
+          "urlHash": "47f67d356e21207e6c49ef3a292930b2fdd4143f",
+          "uuid": "47f67d35-06-8f7cf4f34f6d482db2e857bb4eee216125bb4e60",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[2]/ul[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-complet",
+          "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+          "uuid": "5d27aba1-06-8f7cf4f34f6d482db2e857bb4eee216125bb4e60",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[2]/ul[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-yocreme",
+          "urlHash": "5df71c123de058146fa6c737a861ae4f33fb0571",
+          "uuid": "5df71c12-06-8f7cf4f34f6d482db2e857bb4eee216125bb4e60",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[2]/ul[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-32-kcal-drink",
+          "urlHash": "7de3c6215a5c743585da3ed8a2aeac936d93602f",
+          "uuid": "7de3c621-06-8f7cf4f34f6d482db2e857bb4eee216125bb4e60",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[2]/ul[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-2-kcal-creme",
+          "urlHash": "9b26c0d6ea3c06821f481d069d92f488662ee57a",
+          "uuid": "9b26c0d6-06-8f7cf4f34f6d482db2e857bb4eee216125bb4e60",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[2]/ul[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-control",
+          "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+          "uuid": "f3d05567-06-8f7cf4f34f6d482db2e857bb4eee216125bb4e60",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[2]/ul[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 12,
+      "source": "Columns",
+      "target": "Columns (columns12)",
+      "key": "columns12",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/productos/kabi-proteina",
+          "urlHash": "18b6bff33d8c3a2d1cebb2547e48e299f8860e7c",
+          "uuid": "18b6bff3-06-6cdfef58f03af39900fba8796194166560766a1f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/ol[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-complet",
+          "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+          "uuid": "5d27aba1-07-6cdfef58f03af39900fba8796194166560766a1f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/ol[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-control",
+          "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+          "uuid": "f3d05567-07-6cdfef58f03af39900fba8796194166560766a1f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/ol[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 13,
+      "source": "Columns",
+      "target": "Columns (columns13)",
+      "key": "columns13",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-leche-con-canela",
+          "urlHash": "1bc8a6b94289fc74d35708191fc66ff739ed31c6",
+          "uuid": "1bc8a6b9-03-df0af5c6926e1ab6a2beb4698dbae86b0b039f6d",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[5]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-sandia",
+          "urlHash": "798693e336a5139b14910653d9dc6dc5e2c3e6bf",
+          "uuid": "798693e3-03-df0af5c6926e1ab6a2beb4698dbae86b0b039f6d",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[5]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-vainilla",
+          "urlHash": "f1d23b69c6d91bb57cff684d3a32c717038c9a00",
+          "uuid": "f1d23b69-03-df0af5c6926e1ab6a2beb4698dbae86b0b039f6d",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[5]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/granizado-de-cafe",
+          "urlHash": "f2cfea112abf098f96464014fa6b51c18755779f",
+          "uuid": "f2cfea11-03-df0af5c6926e1ab6a2beb4698dbae86b0b039f6d",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 14,
+      "source": "Columns",
+      "target": "Columns (columns14)",
+      "key": "columns14",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/recetas/risotto-de-champinones",
+          "urlHash": "2d9eb396bd007bb9922ad1aa93d773d5c3ed53d6",
+          "uuid": "2d9eb396-03-df0af5c6926e1ab6a2beb4698dbae86b0b039f6d",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 15,
+      "source": "Columns",
+      "target": "Columns (columns15)",
+      "key": "columns15",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-tiramisu",
+          "urlHash": "b360762337b84032ce457b29a36452a309f1c465",
+          "uuid": "b3607623-03-df0af5c6926e1ab6a2beb4698dbae86b0b039f6d",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[5]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-platano",
+          "urlHash": "cea75c4e2fa9b64712f704374cc76bbb409fc461",
+          "uuid": "cea75c4e-03-df0af5c6926e1ab6a2beb4698dbae86b0b039f6d",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[5]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-chocolate-y-cacahuete",
+          "urlHash": "dbedb7a3cee9feaeee287993a4e2620ccc8b807e",
+          "uuid": "dbedb7a3-03-df0af5c6926e1ab6a2beb4698dbae86b0b039f6d",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 16,
+      "source": "Cards",
+      "target": "Cards (cards16)",
+      "key": "cards16",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/productos",
+          "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+          "uuid": "bf69d9dd-03-167c41ab52f67b32e4e7c92fa5355b8a2d6d7262",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos",
+          "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+          "uuid": "bf69d9dd-05-6a3a09cbe519d2864643a21144cfcbd4ff745331",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.kabi.es/productos",
+          "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+          "uuid": "bf69d9dd-06-b03734060e5352b8bb0325e3bf102fc6fa57c06c",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.kabi.es/productos",
+          "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+          "uuid": "bf69d9dd-08-e01aafad5b2c98f3c2d9c7d506cae981294cb347",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[6]"
+        },
+        {
+          "url": "https://www.kabi.es/productos",
+          "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+          "uuid": "bf69d9dd-10-255832809fab07c5667b2c2295fe2565279db3b7",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://www.kabi.es/productos",
+          "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+          "uuid": "bf69d9dd-12-85b7fc088bbfb3f21fc1dfbcd296ca7e83f8b8b2",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 17,
+      "source": "Cards",
+      "target": "Cards (cards17)",
+      "key": "cards17",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/productos/kabi-proteina",
+          "urlHash": "18b6bff33d8c3a2d1cebb2547e48e299f8860e7c",
+          "uuid": "18b6bff3-04-052521ec49514edb8db68fd7c36079e5b3d54fd5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-complet",
+          "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+          "uuid": "5d27aba1-04-052521ec49514edb8db68fd7c36079e5b3d54fd5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-control",
+          "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+          "uuid": "f3d05567-04-052521ec49514edb8db68fd7c36079e5b3d54fd5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 18,
+      "source": "Columns",
+      "target": "Columns (columns18)",
+      "key": "columns18",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/productos/kabi-complet",
+          "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+          "uuid": "5d27aba1-14-88b4bbdf6aacdf2377d6d21b7e592a1433bd8009",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-control",
+          "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+          "uuid": "f3d05567-14-88b4bbdf6aacdf2377d6d21b7e592a1433bd8009",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 19,
+      "source": "Cards",
+      "target": "Cards (cards19)",
+      "key": "cards19",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/",
+          "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+          "uuid": "12e26071-10-aff4020a038141c830b3bf98cede7578183063da",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]/div[3]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-proteina",
+          "urlHash": "18b6bff33d8c3a2d1cebb2547e48e299f8860e7c",
+          "uuid": "18b6bff3-11-4a6e608212f75c5a8cb9d51200928bd33dd092bc",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]/div[3]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-complet",
+          "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+          "uuid": "5d27aba1-16-f43da136d39251b165497c9bec5ebbc9edad7537",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[7]/div[3]"
+        },
+        {
+          "url": "https://www.kabi.es/home",
+          "urlHash": "70f375f2dd9e5e2a4746f0ec6eeafc9913d55aab",
+          "uuid": "70f375f2-10-aff4020a038141c830b3bf98cede7578183063da",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]/div[3]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-control",
+          "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+          "uuid": "f3d05567-16-f43da136d39251b165497c9bec5ebbc9edad7537",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[7]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 20,
+      "key": "hero20",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/",
+          "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+          "uuid": "12e26071-02-f4973069d7d61c8f54b889fe3fd1a5bfb0f20157",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/",
+          "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+          "uuid": "12e26071-06-fbe975eaf14fcef5e547648b501c8a4ff0b4b540",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/a[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/home",
+          "urlHash": "70f375f2dd9e5e2a4746f0ec6eeafc9913d55aab",
+          "uuid": "70f375f2-02-f4973069d7d61c8f54b889fe3fd1a5bfb0f20157",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/home",
+          "urlHash": "70f375f2dd9e5e2a4746f0ec6eeafc9913d55aab",
+          "uuid": "70f375f2-06-fbe975eaf14fcef5e547648b501c8a4ff0b4b540",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/a[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 21,
+      "source": "Cards",
+      "target": "Cards (cards21)",
+      "key": "cards21",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/blog/claves-para-envejecer-de-manera-saludable",
+          "urlHash": "3017f872ac1e5349350a1c6d94cdee8934207182",
+          "uuid": "3017f872-03-052521ec49514edb8db68fd7c36079e5b3d54fd5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 22,
+      "source": "Cards",
+      "target": "Cards (cards22)",
+      "key": "cards22",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/recetas",
+          "urlHash": "0cb99c4eedd9c39ae76d78b65a451be5ad6ca3c8",
+          "uuid": "0cb99c4e-03-f38e288b5c9322b07f657b47eaf6af0744804d32",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 23,
+      "key": "hero23",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/quienes-somos",
+          "urlHash": "c3faef59f95b33d70041f421ef3f5e56e45fbfac",
+          "uuid": "c3faef59-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 24,
+      "source": "Columns",
+      "target": "Columns (columns24)",
+      "key": "columns24",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/productos",
+          "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+          "uuid": "bf69d9dd-14-4cc6f008bdd5ee740d6194066028140ec17373c0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 25,
+      "source": "Columns",
+      "target": "Columns (columns25)",
+      "key": "columns25",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/recetas",
+          "urlHash": "0cb99c4eedd9c39ae76d78b65a451be5ad6ca3c8",
+          "uuid": "0cb99c4e-02-289b3b48c3a5aa534394da2150017bcc6111ab22",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/form[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 26,
+      "key": "hero26",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/",
+          "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+          "uuid": "12e26071-01-00a17fcde5c5de3fc91b48cfe04b9e09b79e2796",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/",
+          "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+          "uuid": "12e26071-05-4c461afaa77dce16ee1185bf5708655ee4108907",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/a[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/home",
+          "urlHash": "70f375f2dd9e5e2a4746f0ec6eeafc9913d55aab",
+          "uuid": "70f375f2-01-00a17fcde5c5de3fc91b48cfe04b9e09b79e2796",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/home",
+          "urlHash": "70f375f2dd9e5e2a4746f0ec6eeafc9913d55aab",
+          "uuid": "70f375f2-05-4c461afaa77dce16ee1185bf5708655ee4108907",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/a[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 27,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages27)",
+      "key": "cardsNoImages27",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/productos/kabi-proteina",
+          "urlHash": "18b6bff33d8c3a2d1cebb2547e48e299f8860e7c",
+          "uuid": "18b6bff3-05-326dc8f774bc275d91285a7a1697a4e3375cabe5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/gloupr-zero",
+          "urlHash": "479f1d43310e92f89794799db933181d3024377e",
+          "uuid": "479f1d43-05-326dc8f774bc275d91285a7a1697a4e3375cabe5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-yodrink",
+          "urlHash": "d4c944c2df990161e19962bd64a44906af9fa7b8",
+          "uuid": "d4c944c2-05-326dc8f774bc275d91285a7a1697a4e3375cabe5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 28,
+      "source": "Columns",
+      "target": "Columns (columns28)",
+      "key": "columns28",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/productos/kabi-proteina",
+          "urlHash": "18b6bff33d8c3a2d1cebb2547e48e299f8860e7c",
+          "uuid": "18b6bff3-02-96fb128b4cfde232aeb9b1f1a6b2f607791aa2eb",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/gloupr-zero",
+          "urlHash": "479f1d43310e92f89794799db933181d3024377e",
+          "uuid": "479f1d43-02-96fb128b4cfde232aeb9b1f1a6b2f607791aa2eb",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-yocreme",
+          "urlHash": "5df71c123de058146fa6c737a861ae4f33fb0571",
+          "uuid": "5df71c12-02-96fb128b4cfde232aeb9b1f1a6b2f607791aa2eb",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-2-kcal-creme",
+          "urlHash": "9b26c0d6ea3c06821f481d069d92f488662ee57a",
+          "uuid": "9b26c0d6-02-96fb128b4cfde232aeb9b1f1a6b2f607791aa2eb",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-yodrink",
+          "urlHash": "d4c944c2df990161e19962bd64a44906af9fa7b8",
+          "uuid": "d4c944c2-02-96fb128b4cfde232aeb9b1f1a6b2f607791aa2eb",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 29,
+      "source": "Cards",
+      "target": "Cards (cards29)",
+      "key": "cards29",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/blog",
+          "urlHash": "a443702b5155e241d7df372c8bc3e55ab3117d01",
+          "uuid": "a443702b-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 30,
+      "source": "Columns",
+      "target": "Columns (columns30)",
+      "key": "columns30",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/productos/gloupr-zero",
+          "urlHash": "479f1d43310e92f89794799db933181d3024377e",
+          "uuid": "479f1d43-06-6cdfef58f03af39900fba8796194166560766a1f",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/ol[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 31,
+      "key": "hero31",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/",
+          "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+          "uuid": "12e26071-08-ffa282119f752079ecb5e25446de6a1864437b04",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]"
+        },
+        {
+          "url": "https://www.kabi.es/home",
+          "urlHash": "70f375f2dd9e5e2a4746f0ec6eeafc9913d55aab",
+          "uuid": "70f375f2-08-ffa282119f752079ecb5e25446de6a1864437b04",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 32,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages32)",
+      "key": "cardsNoImages32",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/productos/kabi-proteina",
+          "urlHash": "18b6bff33d8c3a2d1cebb2547e48e299f8860e7c",
+          "uuid": "18b6bff3-07-5b9a1f5952e9facc6647e3cff986820a9d695aa1",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/ul[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/gloupr-zero",
+          "urlHash": "479f1d43310e92f89794799db933181d3024377e",
+          "uuid": "479f1d43-07-5b9a1f5952e9facc6647e3cff986820a9d695aa1",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/ul[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-db-creme",
+          "urlHash": "47f67d356e21207e6c49ef3a292930b2fdd4143f",
+          "uuid": "47f67d35-08-5b9a1f5952e9facc6647e3cff986820a9d695aa1",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/ul[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-complet",
+          "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+          "uuid": "5d27aba1-08-5b9a1f5952e9facc6647e3cff986820a9d695aa1",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/ul[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-yocreme",
+          "urlHash": "5df71c123de058146fa6c737a861ae4f33fb0571",
+          "uuid": "5df71c12-08-5b9a1f5952e9facc6647e3cff986820a9d695aa1",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/ul[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-32-kcal-drink",
+          "urlHash": "7de3c6215a5c743585da3ed8a2aeac936d93602f",
+          "uuid": "7de3c621-08-5b9a1f5952e9facc6647e3cff986820a9d695aa1",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/ul[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-2-kcal-creme",
+          "urlHash": "9b26c0d6ea3c06821f481d069d92f488662ee57a",
+          "uuid": "9b26c0d6-08-5b9a1f5952e9facc6647e3cff986820a9d695aa1",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/ul[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-yodrink",
+          "urlHash": "d4c944c2df990161e19962bd64a44906af9fa7b8",
+          "uuid": "d4c944c2-07-5b9a1f5952e9facc6647e3cff986820a9d695aa1",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/ul[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-control",
+          "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+          "uuid": "f3d05567-08-5b9a1f5952e9facc6647e3cff986820a9d695aa1",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/ul[1]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 33,
+      "source": "Header",
+      "target": "Header (header33)",
+      "key": "header33",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/recetas",
+          "urlHash": "0cb99c4eedd9c39ae76d78b65a451be5ad6ca3c8",
+          "uuid": "0cb99c4e-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/flan-proteico-de-yogur-y-fresa",
+          "urlHash": "1696eeb18ee272df4e58ea965f33e607c30e2c53",
+          "uuid": "1696eeb1-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-leche-con-canela",
+          "urlHash": "1bc8a6b94289fc74d35708191fc66ff739ed31c6",
+          "uuid": "1bc8a6b9-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-frutos-rojos",
+          "urlHash": "2d7621940bd8aa32f336b3174f6247fc95149d9b",
+          "uuid": "2d762194-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/risotto-de-champinones",
+          "urlHash": "2d9eb396bd007bb9922ad1aa93d773d5c3ed53d6",
+          "uuid": "2d9eb396-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/aviso-legal",
+          "urlHash": "2dbd32f669c3ec861b1b9e5d93baa8d0cc3e9596",
+          "uuid": "2dbd32f6-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/blog/claves-para-envejecer-de-manera-saludable",
+          "urlHash": "3017f872ac1e5349350a1c6d94cdee8934207182",
+          "uuid": "3017f872-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recomendador",
+          "urlHash": "32b2d1104c0a6c58cf68ffb9cae1fdb29974824e",
+          "uuid": "32b2d110-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/politica-de-cookies",
+          "urlHash": "4d8a9b9c3fb62d93446d69db82f26f435fbe49fb",
+          "uuid": "4d8a9b9c-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-sandia",
+          "urlHash": "798693e336a5139b14910653d9dc6dc5e2c3e6bf",
+          "uuid": "798693e3-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-chocolate",
+          "urlHash": "84c25f939c55d7ebddebfb69abced5aa955ec2df",
+          "uuid": "84c25f93-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/politica-de-privacidad",
+          "urlHash": "89028bd37fca7ca9dbc13f104b0b5c2ff30b87e9",
+          "uuid": "89028bd3-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/blog",
+          "urlHash": "a443702b5155e241d7df372c8bc3e55ab3117d01",
+          "uuid": "a443702b-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-multifrutas-con-proteina",
+          "urlHash": "a98998988c2e8ccc933940cf486f4bc23ea69abe",
+          "uuid": "a9899898-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-tiramisu",
+          "urlHash": "b360762337b84032ce457b29a36452a309f1c465",
+          "uuid": "b3607623-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos",
+          "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+          "uuid": "bf69d9dd-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/quienes-somos",
+          "urlHash": "c3faef59f95b33d70041f421ef3f5e56e45fbfac",
+          "uuid": "c3faef59-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-platano",
+          "urlHash": "cea75c4e2fa9b64712f704374cc76bbb409fc461",
+          "uuid": "cea75c4e-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/batido-de-chocolate-y-cacahuete",
+          "urlHash": "dbedb7a3cee9feaeee287993a4e2620ccc8b807e",
+          "uuid": "dbedb7a3-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/blog/la-importancia-de-las-proteinas-en-las-personas-mayores",
+          "urlHash": "eb35e9a244ee91ff0087b7fde137f66ff8b61a6a",
+          "uuid": "eb35e9a2-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-vainilla",
+          "urlHash": "f1d23b69c6d91bb57cff684d3a32c717038c9a00",
+          "uuid": "f1d23b69-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/granizado-de-cafe",
+          "urlHash": "f2cfea112abf098f96464014fa6b51c18755779f",
+          "uuid": "f2cfea11-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 34,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages34)",
+      "key": "cardsNoImages34",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/recomendador",
+          "urlHash": "32b2d1104c0a6c58cf68ffb9cae1fdb29974824e",
+          "uuid": "32b2d110-03-ce0abc3e1c6dc225339d7936eacc18a0dbb92782",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/ul[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 35,
+      "source": "Columns",
+      "target": "Columns (columns35)",
+      "key": "columns35",
+      "instances": [
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-db-creme",
+          "urlHash": "47f67d356e21207e6c49ef3a292930b2fdd4143f",
+          "uuid": "47f67d35-02-96fb128b4cfde232aeb9b1f1a6b2f607791aa2eb",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-complet",
+          "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+          "uuid": "5d27aba1-02-96fb128b4cfde232aeb9b1f1a6b2f607791aa2eb",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/fresubinr-32-kcal-drink",
+          "urlHash": "7de3c6215a5c743585da3ed8a2aeac936d93602f",
+          "uuid": "7de3c621-02-96fb128b4cfde232aeb9b1f1a6b2f607791aa2eb",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-control",
+          "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+          "uuid": "f3d05567-02-96fb128b4cfde232aeb9b1f1a6b2f607791aa2eb",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[2]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.kabi.es/recetas",
+      "urlHash": "0cb99c4eedd9c39ae76d78b65a451be5ad6ca3c8",
+      "uuid": "0cb99c4e-01-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas",
+      "urlHash": "0cb99c4eedd9c39ae76d78b65a451be5ad6ca3c8",
+      "uuid": "0cb99c4e-05-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/",
+      "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+      "uuid": "12e26071-03-96fb128b4cfde232aeb9b1f1a6b2f607791aa2eb",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/",
+      "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+      "uuid": "12e26071-04-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+    },
+    {
+      "url": "https://www.kabi.es/",
+      "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+      "uuid": "12e26071-07-ea5c6a9ff75c98e80c19d800fa37244152ff525b",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/a[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/",
+      "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+      "uuid": "12e26071-09-2702fb8ec71b0f943ce0815e92df97d474ee1682",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/",
+      "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+      "uuid": "12e26071-11-dc9502eea29aa3c53764b6ea41086caa85a02b02",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/",
+      "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+      "uuid": "12e26071-12-3fc1d5cb7866b262214d54f044938e93d19bfd57",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]/p[1]"
+    },
+    {
+      "url": "https://www.kabi.es/",
+      "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+      "uuid": "12e26071-15-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/flan-proteico-de-yogur-y-fresa",
+      "urlHash": "1696eeb18ee272df4e58ea965f33e607c30e2c53",
+      "uuid": "1696eeb1-01-d892d67f78f1211d05f7f4a95295c63f06f77322",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]/img[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/flan-proteico-de-yogur-y-fresa",
+      "urlHash": "1696eeb18ee272df4e58ea965f33e607c30e2c53",
+      "uuid": "1696eeb1-02-6367ed2b1a3b41bcf7d2369348951fcc7f7d1c80",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[4]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/flan-proteico-de-yogur-y-fresa",
+      "urlHash": "1696eeb18ee272df4e58ea965f33e607c30e2c53",
+      "uuid": "1696eeb1-04-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/flan-proteico-de-yogur-y-fresa",
+      "urlHash": "1696eeb18ee272df4e58ea965f33e607c30e2c53",
+      "uuid": "1696eeb1-05-3989cd7c2893c66c54c6c9c92d3c2c44795c776e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/flan-proteico-de-yogur-y-fresa",
+      "urlHash": "1696eeb18ee272df4e58ea965f33e607c30e2c53",
+      "uuid": "1696eeb1-07-ffa282119f752079ecb5e25446de6a1864437b04",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/flan-proteico-de-yogur-y-fresa",
+      "urlHash": "1696eeb18ee272df4e58ea965f33e607c30e2c53",
+      "uuid": "1696eeb1-09-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/kabi-proteina",
+      "urlHash": "18b6bff33d8c3a2d1cebb2547e48e299f8860e7c",
+      "uuid": "18b6bff3-03-4cc6f008bdd5ee740d6194066028140ec17373c0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/kabi-proteina",
+      "urlHash": "18b6bff33d8c3a2d1cebb2547e48e299f8860e7c",
+      "uuid": "18b6bff3-09-ca387fba1f9b5c8091f69447f767d36f096cc09a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/kabi-proteina",
+      "urlHash": "18b6bff33d8c3a2d1cebb2547e48e299f8860e7c",
+      "uuid": "18b6bff3-10-dc9502eea29aa3c53764b6ea41086caa85a02b02",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/kabi-proteina",
+      "urlHash": "18b6bff33d8c3a2d1cebb2547e48e299f8860e7c",
+      "uuid": "18b6bff3-13-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-leche-con-canela",
+      "urlHash": "1bc8a6b94289fc74d35708191fc66ff739ed31c6",
+      "uuid": "1bc8a6b9-01-d892d67f78f1211d05f7f4a95295c63f06f77322",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]/img[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-leche-con-canela",
+      "urlHash": "1bc8a6b94289fc74d35708191fc66ff739ed31c6",
+      "uuid": "1bc8a6b9-02-6367ed2b1a3b41bcf7d2369348951fcc7f7d1c80",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[4]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-leche-con-canela",
+      "urlHash": "1bc8a6b94289fc74d35708191fc66ff739ed31c6",
+      "uuid": "1bc8a6b9-04-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-leche-con-canela",
+      "urlHash": "1bc8a6b94289fc74d35708191fc66ff739ed31c6",
+      "uuid": "1bc8a6b9-05-3989cd7c2893c66c54c6c9c92d3c2c44795c776e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-leche-con-canela",
+      "urlHash": "1bc8a6b94289fc74d35708191fc66ff739ed31c6",
+      "uuid": "1bc8a6b9-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/batido-de-frutos-rojos",
+      "urlHash": "2d7621940bd8aa32f336b3174f6247fc95149d9b",
+      "uuid": "2d762194-01-d892d67f78f1211d05f7f4a95295c63f06f77322",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]/img[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/batido-de-frutos-rojos",
+      "urlHash": "2d7621940bd8aa32f336b3174f6247fc95149d9b",
+      "uuid": "2d762194-02-6367ed2b1a3b41bcf7d2369348951fcc7f7d1c80",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[4]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/batido-de-frutos-rojos",
+      "urlHash": "2d7621940bd8aa32f336b3174f6247fc95149d9b",
+      "uuid": "2d762194-04-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/batido-de-frutos-rojos",
+      "urlHash": "2d7621940bd8aa32f336b3174f6247fc95149d9b",
+      "uuid": "2d762194-05-3989cd7c2893c66c54c6c9c92d3c2c44795c776e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/batido-de-frutos-rojos",
+      "urlHash": "2d7621940bd8aa32f336b3174f6247fc95149d9b",
+      "uuid": "2d762194-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/risotto-de-champinones",
+      "urlHash": "2d9eb396bd007bb9922ad1aa93d773d5c3ed53d6",
+      "uuid": "2d9eb396-01-d892d67f78f1211d05f7f4a95295c63f06f77322",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]/img[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/risotto-de-champinones",
+      "urlHash": "2d9eb396bd007bb9922ad1aa93d773d5c3ed53d6",
+      "uuid": "2d9eb396-02-6367ed2b1a3b41bcf7d2369348951fcc7f7d1c80",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[4]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/risotto-de-champinones",
+      "urlHash": "2d9eb396bd007bb9922ad1aa93d773d5c3ed53d6",
+      "uuid": "2d9eb396-04-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/risotto-de-champinones",
+      "urlHash": "2d9eb396bd007bb9922ad1aa93d773d5c3ed53d6",
+      "uuid": "2d9eb396-05-3989cd7c2893c66c54c6c9c92d3c2c44795c776e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/risotto-de-champinones",
+      "urlHash": "2d9eb396bd007bb9922ad1aa93d773d5c3ed53d6",
+      "uuid": "2d9eb396-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/aviso-legal",
+      "urlHash": "2dbd32f669c3ec861b1b9e5d93baa8d0cc3e9596",
+      "uuid": "2dbd32f6-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]"
+    },
+    {
+      "url": "https://www.kabi.es/aviso-legal",
+      "urlHash": "2dbd32f669c3ec861b1b9e5d93baa8d0cc3e9596",
+      "uuid": "2dbd32f6-03-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/blog/claves-para-envejecer-de-manera-saludable",
+      "urlHash": "3017f872ac1e5349350a1c6d94cdee8934207182",
+      "uuid": "3017f872-01-31d3c8896b1fd3531c6b4d088f068667d668f20a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]"
+    },
+    {
+      "url": "https://www.kabi.es/blog/claves-para-envejecer-de-manera-saludable",
+      "urlHash": "3017f872ac1e5349350a1c6d94cdee8934207182",
+      "uuid": "3017f872-02-3e31b922fe9b7b58f2cbce3a155df69865bdcd87",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/blog/claves-para-envejecer-de-manera-saludable",
+      "urlHash": "3017f872ac1e5349350a1c6d94cdee8934207182",
+      "uuid": "3017f872-05-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recomendador",
+      "urlHash": "32b2d1104c0a6c58cf68ffb9cae1fdb29974824e",
+      "uuid": "32b2d110-01-acc6f27d66a11d8b3b6349c12b80bfa37c968494",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/h1[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recomendador",
+      "urlHash": "32b2d1104c0a6c58cf68ffb9cae1fdb29974824e",
+      "uuid": "32b2d110-02-16f59f12f81b116ef5a5a070f34c952cff4dc2c8",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/p[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recomendador",
+      "urlHash": "32b2d1104c0a6c58cf68ffb9cae1fdb29974824e",
+      "uuid": "32b2d110-04-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recomendador",
+      "urlHash": "32b2d1104c0a6c58cf68ffb9cae1fdb29974824e",
+      "uuid": "32b2d110-06-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/gloupr-zero",
+      "urlHash": "479f1d43310e92f89794799db933181d3024377e",
+      "uuid": "479f1d43-03-4cc6f008bdd5ee740d6194066028140ec17373c0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/gloupr-zero",
+      "urlHash": "479f1d43310e92f89794799db933181d3024377e",
+      "uuid": "479f1d43-09-ca387fba1f9b5c8091f69447f767d36f096cc09a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/gloupr-zero",
+      "urlHash": "479f1d43310e92f89794799db933181d3024377e",
+      "uuid": "479f1d43-11-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-db-creme",
+      "urlHash": "47f67d356e21207e6c49ef3a292930b2fdd4143f",
+      "uuid": "47f67d35-03-4cc6f008bdd5ee740d6194066028140ec17373c0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-db-creme",
+      "urlHash": "47f67d356e21207e6c49ef3a292930b2fdd4143f",
+      "uuid": "47f67d35-05-dd90f0f10b60b33f61e57257171845e5495e49e5",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[2]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-db-creme",
+      "urlHash": "47f67d356e21207e6c49ef3a292930b2fdd4143f",
+      "uuid": "47f67d35-07-3989cd7c2893c66c54c6c9c92d3c2c44795c776e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-db-creme",
+      "urlHash": "47f67d356e21207e6c49ef3a292930b2fdd4143f",
+      "uuid": "47f67d35-09-ffa282119f752079ecb5e25446de6a1864437b04",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-db-creme",
+      "urlHash": "47f67d356e21207e6c49ef3a292930b2fdd4143f",
+      "uuid": "47f67d35-11-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/politica-de-cookies",
+      "urlHash": "4d8a9b9c3fb62d93446d69db82f26f435fbe49fb",
+      "uuid": "4d8a9b9c-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]"
+    },
+    {
+      "url": "https://www.kabi.es/politica-de-cookies",
+      "urlHash": "4d8a9b9c3fb62d93446d69db82f26f435fbe49fb",
+      "uuid": "4d8a9b9c-03-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/kabi-complet",
+      "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+      "uuid": "5d27aba1-03-4cc6f008bdd5ee740d6194066028140ec17373c0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/kabi-complet",
+      "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+      "uuid": "5d27aba1-05-dd90f0f10b60b33f61e57257171845e5495e49e5",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[2]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/kabi-complet",
+      "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+      "uuid": "5d27aba1-09-fb1a13f721dd41eb8d0703227f059c8af44b992b",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]/p[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/kabi-complet",
+      "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+      "uuid": "5d27aba1-11-ca387fba1f9b5c8091f69447f767d36f096cc09a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/kabi-complet",
+      "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+      "uuid": "5d27aba1-12-dc9502eea29aa3c53764b6ea41086caa85a02b02",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/kabi-complet",
+      "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+      "uuid": "5d27aba1-13-3fc1d5cb7866b262214d54f044938e93d19bfd57",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]/p[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/kabi-complet",
+      "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+      "uuid": "5d27aba1-15-0156a11541bf375986f24e289659d68eb3893a14",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[7]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/kabi-complet",
+      "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+      "uuid": "5d27aba1-18-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-yocreme",
+      "urlHash": "5df71c123de058146fa6c737a861ae4f33fb0571",
+      "uuid": "5df71c12-03-4cc6f008bdd5ee740d6194066028140ec17373c0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-yocreme",
+      "urlHash": "5df71c123de058146fa6c737a861ae4f33fb0571",
+      "uuid": "5df71c12-05-dd90f0f10b60b33f61e57257171845e5495e49e5",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[2]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-yocreme",
+      "urlHash": "5df71c123de058146fa6c737a861ae4f33fb0571",
+      "uuid": "5df71c12-07-3989cd7c2893c66c54c6c9c92d3c2c44795c776e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-yocreme",
+      "urlHash": "5df71c123de058146fa6c737a861ae4f33fb0571",
+      "uuid": "5df71c12-09-ffa282119f752079ecb5e25446de6a1864437b04",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-yocreme",
+      "urlHash": "5df71c123de058146fa6c737a861ae4f33fb0571",
+      "uuid": "5df71c12-11-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/home",
+      "urlHash": "70f375f2dd9e5e2a4746f0ec6eeafc9913d55aab",
+      "uuid": "70f375f2-03-96fb128b4cfde232aeb9b1f1a6b2f607791aa2eb",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/home",
+      "urlHash": "70f375f2dd9e5e2a4746f0ec6eeafc9913d55aab",
+      "uuid": "70f375f2-04-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+    },
+    {
+      "url": "https://www.kabi.es/home",
+      "urlHash": "70f375f2dd9e5e2a4746f0ec6eeafc9913d55aab",
+      "uuid": "70f375f2-07-ea5c6a9ff75c98e80c19d800fa37244152ff525b",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/a[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/home",
+      "urlHash": "70f375f2dd9e5e2a4746f0ec6eeafc9913d55aab",
+      "uuid": "70f375f2-09-2702fb8ec71b0f943ce0815e92df97d474ee1682",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/home",
+      "urlHash": "70f375f2dd9e5e2a4746f0ec6eeafc9913d55aab",
+      "uuid": "70f375f2-11-dc9502eea29aa3c53764b6ea41086caa85a02b02",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/home",
+      "urlHash": "70f375f2dd9e5e2a4746f0ec6eeafc9913d55aab",
+      "uuid": "70f375f2-12-3fc1d5cb7866b262214d54f044938e93d19bfd57",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]/p[1]"
+    },
+    {
+      "url": "https://www.kabi.es/home",
+      "urlHash": "70f375f2dd9e5e2a4746f0ec6eeafc9913d55aab",
+      "uuid": "70f375f2-15-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-sandia",
+      "urlHash": "798693e336a5139b14910653d9dc6dc5e2c3e6bf",
+      "uuid": "798693e3-01-d892d67f78f1211d05f7f4a95295c63f06f77322",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]/img[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-sandia",
+      "urlHash": "798693e336a5139b14910653d9dc6dc5e2c3e6bf",
+      "uuid": "798693e3-02-6367ed2b1a3b41bcf7d2369348951fcc7f7d1c80",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[4]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-sandia",
+      "urlHash": "798693e336a5139b14910653d9dc6dc5e2c3e6bf",
+      "uuid": "798693e3-04-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-sandia",
+      "urlHash": "798693e336a5139b14910653d9dc6dc5e2c3e6bf",
+      "uuid": "798693e3-05-3989cd7c2893c66c54c6c9c92d3c2c44795c776e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-sandia",
+      "urlHash": "798693e336a5139b14910653d9dc6dc5e2c3e6bf",
+      "uuid": "798693e3-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-32-kcal-drink",
+      "urlHash": "7de3c6215a5c743585da3ed8a2aeac936d93602f",
+      "uuid": "7de3c621-03-4cc6f008bdd5ee740d6194066028140ec17373c0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-32-kcal-drink",
+      "urlHash": "7de3c6215a5c743585da3ed8a2aeac936d93602f",
+      "uuid": "7de3c621-05-dd90f0f10b60b33f61e57257171845e5495e49e5",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[2]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-32-kcal-drink",
+      "urlHash": "7de3c6215a5c743585da3ed8a2aeac936d93602f",
+      "uuid": "7de3c621-07-3989cd7c2893c66c54c6c9c92d3c2c44795c776e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-32-kcal-drink",
+      "urlHash": "7de3c6215a5c743585da3ed8a2aeac936d93602f",
+      "uuid": "7de3c621-09-ffa282119f752079ecb5e25446de6a1864437b04",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-32-kcal-drink",
+      "urlHash": "7de3c6215a5c743585da3ed8a2aeac936d93602f",
+      "uuid": "7de3c621-11-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-chocolate",
+      "urlHash": "84c25f939c55d7ebddebfb69abced5aa955ec2df",
+      "uuid": "84c25f93-01-d892d67f78f1211d05f7f4a95295c63f06f77322",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]/img[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-chocolate",
+      "urlHash": "84c25f939c55d7ebddebfb69abced5aa955ec2df",
+      "uuid": "84c25f93-02-6367ed2b1a3b41bcf7d2369348951fcc7f7d1c80",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[4]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-chocolate",
+      "urlHash": "84c25f939c55d7ebddebfb69abced5aa955ec2df",
+      "uuid": "84c25f93-04-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-chocolate",
+      "urlHash": "84c25f939c55d7ebddebfb69abced5aa955ec2df",
+      "uuid": "84c25f93-05-3989cd7c2893c66c54c6c9c92d3c2c44795c776e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-chocolate",
+      "urlHash": "84c25f939c55d7ebddebfb69abced5aa955ec2df",
+      "uuid": "84c25f93-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/politica-de-privacidad",
+      "urlHash": "89028bd37fca7ca9dbc13f104b0b5c2ff30b87e9",
+      "uuid": "89028bd3-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]"
+    },
+    {
+      "url": "https://www.kabi.es/politica-de-privacidad",
+      "urlHash": "89028bd37fca7ca9dbc13f104b0b5c2ff30b87e9",
+      "uuid": "89028bd3-03-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-2-kcal-creme",
+      "urlHash": "9b26c0d6ea3c06821f481d069d92f488662ee57a",
+      "uuid": "9b26c0d6-03-4cc6f008bdd5ee740d6194066028140ec17373c0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-2-kcal-creme",
+      "urlHash": "9b26c0d6ea3c06821f481d069d92f488662ee57a",
+      "uuid": "9b26c0d6-05-dd90f0f10b60b33f61e57257171845e5495e49e5",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[2]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-2-kcal-creme",
+      "urlHash": "9b26c0d6ea3c06821f481d069d92f488662ee57a",
+      "uuid": "9b26c0d6-07-3989cd7c2893c66c54c6c9c92d3c2c44795c776e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-2-kcal-creme",
+      "urlHash": "9b26c0d6ea3c06821f481d069d92f488662ee57a",
+      "uuid": "9b26c0d6-09-ffa282119f752079ecb5e25446de6a1864437b04",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-2-kcal-creme",
+      "urlHash": "9b26c0d6ea3c06821f481d069d92f488662ee57a",
+      "uuid": "9b26c0d6-11-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/blog",
+      "urlHash": "a443702b5155e241d7df372c8bc3e55ab3117d01",
+      "uuid": "a443702b-03-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/batido-de-multifrutas-con-proteina",
+      "urlHash": "a98998988c2e8ccc933940cf486f4bc23ea69abe",
+      "uuid": "a9899898-01-d892d67f78f1211d05f7f4a95295c63f06f77322",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]/img[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/batido-de-multifrutas-con-proteina",
+      "urlHash": "a98998988c2e8ccc933940cf486f4bc23ea69abe",
+      "uuid": "a9899898-02-6367ed2b1a3b41bcf7d2369348951fcc7f7d1c80",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[4]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/batido-de-multifrutas-con-proteina",
+      "urlHash": "a98998988c2e8ccc933940cf486f4bc23ea69abe",
+      "uuid": "a9899898-04-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/batido-de-multifrutas-con-proteina",
+      "urlHash": "a98998988c2e8ccc933940cf486f4bc23ea69abe",
+      "uuid": "a9899898-05-3989cd7c2893c66c54c6c9c92d3c2c44795c776e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/batido-de-multifrutas-con-proteina",
+      "urlHash": "a98998988c2e8ccc933940cf486f4bc23ea69abe",
+      "uuid": "a9899898-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/batido-de-tiramisu",
+      "urlHash": "b360762337b84032ce457b29a36452a309f1c465",
+      "uuid": "b3607623-01-d892d67f78f1211d05f7f4a95295c63f06f77322",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]/img[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/batido-de-tiramisu",
+      "urlHash": "b360762337b84032ce457b29a36452a309f1c465",
+      "uuid": "b3607623-02-6367ed2b1a3b41bcf7d2369348951fcc7f7d1c80",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[4]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/batido-de-tiramisu",
+      "urlHash": "b360762337b84032ce457b29a36452a309f1c465",
+      "uuid": "b3607623-04-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/batido-de-tiramisu",
+      "urlHash": "b360762337b84032ce457b29a36452a309f1c465",
+      "uuid": "b3607623-05-3989cd7c2893c66c54c6c9c92d3c2c44795c776e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/batido-de-tiramisu",
+      "urlHash": "b360762337b84032ce457b29a36452a309f1c465",
+      "uuid": "b3607623-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/productos",
+      "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+      "uuid": "bf69d9dd-01-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/productos",
+      "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+      "uuid": "bf69d9dd-02-1cd07d233caed05d2e771526550fb2df00fd6f4d",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/h3[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos",
+      "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+      "uuid": "bf69d9dd-11-008298527d2d7c8bac2942f64f841dcb4856ebab",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[2]/h3[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos",
+      "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+      "uuid": "bf69d9dd-13-b43736f141e2dc0301dc282d39bea2004d9f832f",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos",
+      "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+      "uuid": "bf69d9dd-15-3e31b922fe9b7b58f2cbce3a155df69865bdcd87",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos",
+      "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+      "uuid": "bf69d9dd-16-131bc658adff0b439cd39b6c20439db49edbd0d7",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/p[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos",
+      "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+      "uuid": "bf69d9dd-19-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/quienes-somos",
+      "urlHash": "c3faef59f95b33d70041f421ef3f5e56e45fbfac",
+      "uuid": "c3faef59-03-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-platano",
+      "urlHash": "cea75c4e2fa9b64712f704374cc76bbb409fc461",
+      "uuid": "cea75c4e-01-d892d67f78f1211d05f7f4a95295c63f06f77322",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]/img[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-platano",
+      "urlHash": "cea75c4e2fa9b64712f704374cc76bbb409fc461",
+      "uuid": "cea75c4e-02-6367ed2b1a3b41bcf7d2369348951fcc7f7d1c80",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[4]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-platano",
+      "urlHash": "cea75c4e2fa9b64712f704374cc76bbb409fc461",
+      "uuid": "cea75c4e-04-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-platano",
+      "urlHash": "cea75c4e2fa9b64712f704374cc76bbb409fc461",
+      "uuid": "cea75c4e-05-3989cd7c2893c66c54c6c9c92d3c2c44795c776e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-platano",
+      "urlHash": "cea75c4e2fa9b64712f704374cc76bbb409fc461",
+      "uuid": "cea75c4e-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-yodrink",
+      "urlHash": "d4c944c2df990161e19962bd64a44906af9fa7b8",
+      "uuid": "d4c944c2-03-4cc6f008bdd5ee740d6194066028140ec17373c0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-yodrink",
+      "urlHash": "d4c944c2df990161e19962bd64a44906af9fa7b8",
+      "uuid": "d4c944c2-06-3989cd7c2893c66c54c6c9c92d3c2c44795c776e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-yodrink",
+      "urlHash": "d4c944c2df990161e19962bd64a44906af9fa7b8",
+      "uuid": "d4c944c2-08-ffa282119f752079ecb5e25446de6a1864437b04",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/fresubinr-yodrink",
+      "urlHash": "d4c944c2df990161e19962bd64a44906af9fa7b8",
+      "uuid": "d4c944c2-10-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/batido-de-chocolate-y-cacahuete",
+      "urlHash": "dbedb7a3cee9feaeee287993a4e2620ccc8b807e",
+      "uuid": "dbedb7a3-01-d892d67f78f1211d05f7f4a95295c63f06f77322",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]/img[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/batido-de-chocolate-y-cacahuete",
+      "urlHash": "dbedb7a3cee9feaeee287993a4e2620ccc8b807e",
+      "uuid": "dbedb7a3-02-6367ed2b1a3b41bcf7d2369348951fcc7f7d1c80",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[4]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/batido-de-chocolate-y-cacahuete",
+      "urlHash": "dbedb7a3cee9feaeee287993a4e2620ccc8b807e",
+      "uuid": "dbedb7a3-04-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/batido-de-chocolate-y-cacahuete",
+      "urlHash": "dbedb7a3cee9feaeee287993a4e2620ccc8b807e",
+      "uuid": "dbedb7a3-05-3989cd7c2893c66c54c6c9c92d3c2c44795c776e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/batido-de-chocolate-y-cacahuete",
+      "urlHash": "dbedb7a3cee9feaeee287993a4e2620ccc8b807e",
+      "uuid": "dbedb7a3-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/blog/la-importancia-de-las-proteinas-en-las-personas-mayores",
+      "urlHash": "eb35e9a244ee91ff0087b7fde137f66ff8b61a6a",
+      "uuid": "eb35e9a2-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]"
+    },
+    {
+      "url": "https://www.kabi.es/blog/la-importancia-de-las-proteinas-en-las-personas-mayores",
+      "urlHash": "eb35e9a244ee91ff0087b7fde137f66ff8b61a6a",
+      "uuid": "eb35e9a2-03-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-vainilla",
+      "urlHash": "f1d23b69c6d91bb57cff684d3a32c717038c9a00",
+      "uuid": "f1d23b69-01-d892d67f78f1211d05f7f4a95295c63f06f77322",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]/img[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-vainilla",
+      "urlHash": "f1d23b69c6d91bb57cff684d3a32c717038c9a00",
+      "uuid": "f1d23b69-02-6367ed2b1a3b41bcf7d2369348951fcc7f7d1c80",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[4]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-vainilla",
+      "urlHash": "f1d23b69c6d91bb57cff684d3a32c717038c9a00",
+      "uuid": "f1d23b69-04-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-vainilla",
+      "urlHash": "f1d23b69c6d91bb57cff684d3a32c717038c9a00",
+      "uuid": "f1d23b69-05-3989cd7c2893c66c54c6c9c92d3c2c44795c776e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/helado-de-vainilla",
+      "urlHash": "f1d23b69c6d91bb57cff684d3a32c717038c9a00",
+      "uuid": "f1d23b69-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/granizado-de-cafe",
+      "urlHash": "f2cfea112abf098f96464014fa6b51c18755779f",
+      "uuid": "f2cfea11-01-d892d67f78f1211d05f7f4a95295c63f06f77322",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]/img[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/granizado-de-cafe",
+      "urlHash": "f2cfea112abf098f96464014fa6b51c18755779f",
+      "uuid": "f2cfea11-02-6367ed2b1a3b41bcf7d2369348951fcc7f7d1c80",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[4]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/granizado-de-cafe",
+      "urlHash": "f2cfea112abf098f96464014fa6b51c18755779f",
+      "uuid": "f2cfea11-04-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/granizado-de-cafe",
+      "urlHash": "f2cfea112abf098f96464014fa6b51c18755779f",
+      "uuid": "f2cfea11-05-3989cd7c2893c66c54c6c9c92d3c2c44795c776e",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/recetas/granizado-de-cafe",
+      "urlHash": "f2cfea112abf098f96464014fa6b51c18755779f",
+      "uuid": "f2cfea11-08-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/kabi-control",
+      "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+      "uuid": "f3d05567-03-4cc6f008bdd5ee740d6194066028140ec17373c0",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[3]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/kabi-control",
+      "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+      "uuid": "f3d05567-05-dd90f0f10b60b33f61e57257171845e5495e49e5",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[2]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/kabi-control",
+      "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+      "uuid": "f3d05567-09-fb1a13f721dd41eb8d0703227f059c8af44b992b",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[4]/p[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/kabi-control",
+      "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+      "uuid": "f3d05567-11-ca387fba1f9b5c8091f69447f767d36f096cc09a",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/kabi-control",
+      "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+      "uuid": "f3d05567-12-dc9502eea29aa3c53764b6ea41086caa85a02b02",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/kabi-control",
+      "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+      "uuid": "f3d05567-13-3fc1d5cb7866b262214d54f044938e93d19bfd57",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]/p[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/kabi-control",
+      "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+      "uuid": "f3d05567-15-0156a11541bf375986f24e289659d68eb3893a14",
+      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[7]/h2[1]"
+    },
+    {
+      "url": "https://www.kabi.es/productos/kabi-control",
+      "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+      "uuid": "f3d05567-18-2699cf48136889eb4c501db6ef6144845a8f98ab",
+      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
+    }
+  ]
+}
