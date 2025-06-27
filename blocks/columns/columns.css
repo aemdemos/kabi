@@ -1,4 +1,5 @@
 
+
 /* --- FIXED & REORDERED CSS FOR VALIDATION --- */
 
 .columns img {
@@ -631,9 +632,11 @@
 
 /* ===== MERGED SELECTOR ===== */
 
-.columns.columns12 {
-  background: #eaf3fa;
-  padding: 36px 0;
-  width: 100%;
+.columns.columns15 {
+  position: relative;
+  background: #fff;
+  padding: 0;
+  margin: 0;
   box-sizing: border-box;
+  overflow: visible;
 }
