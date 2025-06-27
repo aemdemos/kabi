@@ -632,11 +632,10 @@
 
 /* ===== MERGED SELECTOR ===== */
 
-.columns.columns15 {
-  position: relative;
+.columns.columns18 {
   background: #fff;
-  padding: 0;
-  margin: 0;
+  padding: 32px 0;
+  width: 100%;
   box-sizing: border-box;
-  overflow: visible;
 }
+
