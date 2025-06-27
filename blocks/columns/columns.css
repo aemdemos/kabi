@@ -1,5 +1,12 @@
 
+
 /* --- FIXED & REORDERED CSS FOR VALIDATION --- */
+
+.columns {
+  background: #f5f8fa;
+  padding: 60px 0;
+  font-family: var(--body-font-family);
+}
 
 .columns img {
   width: 100%;
@@ -631,9 +638,9 @@
 
 /* ===== MERGED SELECTOR ===== */
 
-.columns.columns12 {
-  background: #eaf3fa;
-  padding: 36px 0;
-  width: 100%;
-  box-sizing: border-box;
+.columns {
+  background: #f5f8fa;
+  padding: 60px 0;
+  font-family: var(--body-font-family);
 }
+
