@@ -1,3 +1,4 @@
+ 
 
 .hero-container .hero-wrapper {
   max-width: unset;
@@ -49,15 +50,19 @@
 
 /* --- merged .hero.hero2 block --- */
 .hero.hero2 {
+  background: linear-gradient(135deg,#0072ce 60%,#1995e3 100%);
+  position: relative;
+  overflow: hidden;
   display: flex;
   flex-direction: row;
   align-items: stretch;
-  justify-content: stretch;
-  background: #0070c0;
-  position: relative;
-  min-height: 500px;
+  justify-content: flex-end;
+  min-height: 560px;
+  width: 100vw;
+  margin-left: 50%;
+  transform: translateX(-50%);
   padding: 0;
-  overflow: hidden;
+  box-sizing: border-box;
 }
 
 .hero.hero2 > div {
@@ -74,75 +79,31 @@
 /* --- TEXT COLUMN --- */
 .hero.hero2 > div:last-child {
   order: 1;
-  flex: 0 1 56%;
-  max-width: 56vw;
+  flex: 1 1 55%;
+  max-width: 600px;
   min-width: 320px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  justify-content: flex-start;
+  justify-content: flex-end;
   box-sizing: border-box;
-  padding: 64px 0 0 7vw;
+  padding-left: 10vw;
+  padding-bottom: 18px;
+  padding-top: 0;
   z-index: 3;
-}
-
-.hero.hero2 h1 {
-  font-size: 3rem;
-  font-weight: 700;
-  color: #fff;
-  margin: 0 0 22px;
-  line-height: 1.05;
-}
-
-.hero.hero2 p {
-  color: #fff;
-  font-size: 1.2rem;
-  margin-top: 0.5em;
-  margin-bottom: 1.3em;
-  max-width: 540px;
-}
-
-.hero.hero2 .button-container .button {
-  background: none;
-  border: none;
-  color: #e1f4ff;
-  font-size: 1rem;
-  font-weight: 500;
-  padding: 0;
-  margin-bottom: 26px;
-  border-radius: 0;
-  box-shadow: none;
-  text-decoration: underline;
-  min-width: unset;
-  line-height: 1.2;
-  display: inline;
-}
-
-.hero.hero2 > div:last-child > div > p:nth-of-type(3),
-.hero.hero2 > div:last-child > div > p:nth-of-type(4),
-.hero.hero2 > div:last-child > div > p:nth-of-type(5) {
-  display: inline-block;
-  border: 2px solid #fff;
-  color: #fff;
-  border-radius: 32px;
-  padding: 8px 28px;
-  margin-right: 18px;
-  margin-bottom: 0.7em;
-  background: transparent;
-  font-size: 1rem;
-  font-weight: 500;
 }
 
 /* --- IMAGE COLUMN --- */
 .hero.hero2 > div:first-child {
   order: 2;
-  flex: 0 1 44%;
-  max-width: 44vw;
-  min-width: 340px;
+  flex: 1 1 45%;
+  max-width: 570px;
+  min-width: 260px;
   display: flex;
   align-items: flex-end;
   justify-content: flex-end;
-  padding: 0 4vw 38px 0;
+  padding-right: 0;
+  padding-bottom: 0;
   box-sizing: border-box;
   position: relative;
   z-index: 2;
@@ -159,14 +120,20 @@
 .hero.hero2 picture,
 .hero.hero2 img {
   display: block;
-  max-width: 340px;
+  max-width: 520px;
   width: 100%;
   height: auto;
   object-fit: cover;
   align-self: flex-end;
-  margin-left: auto;
-  margin-right: 0;
-  box-shadow: 0 8px 40px rgb(0 0 0 / 13%);
+  margin-bottom: -24px;
+  margin-right: -18px;
+  box-shadow: none;
+  z-index: 2;
+}
+
+/* Remove ellipse/blurred floor if any */
+.hero.hero2 > div:first-child::before {
+  display: none;
 }
 
 /* Diagonal cut at the bottom */
@@ -175,39 +142,141 @@
   left: 0;
   right: 0;
   bottom: 0;
-  height: 90px;
+  height: 95px;
   background: #f5f7fa;
-  transform: skewY(-3deg);
+  clip-path: polygon(0 100%, 100% 74%, 100% 100%, 0% 100%);
   z-index: 1;
+  pointer-events: none;
   display: block;
+  content: "";
+}
+
+/* --- TEXT --- */
+.hero.hero2 h1 {
+  font-size: 3rem;
+  font-weight: 800;
+  color: #fff;
+  margin: 0 0 12px;
+  line-height: 1.05;
+  max-width: 920px;
+}
+
+.hero.hero2 p {
+  color: #fff;
+  font-size: 1.2rem;
+  margin-top: 0.5em;
+  margin-bottom: 1.3em;
+  max-width: 540px;
+}
+
+.hero.hero2 p:not(.button-container, [class]) {
+  color: #fff;
+  font-size: 1.22rem;
+  font-weight: 400;
+  max-width: 900px;
+  margin: 0 0 10px;
+}
+
+/* --- BREADCRUMB LINK & BUTTONS --- */
+.hero.hero2 .button-container {
+  margin-bottom: 14px;
+}
+
+.hero.hero2 .button-container .button {
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 500;
+  padding-left: 18px;
+  box-shadow: none;
+  min-width: unset;
+  line-height: 1.2;
+  display: inline;
+  position: relative;
+  text-decoration: none;
+}
+
+.hero.hero2 .button-container .button::before {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 14px;
+  height: 14px;
+  background: url('data:image/svg+xml;utf8,<svg fill="white" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 20 20"><path d="M12.293 15.707a1 1 0 0 1-1.414 0l-5-5a1 1 0 0 1 0-1.414l5-5a1 1 0 1 1 1.414 1.414L8.414 9H17a1 1 0 1 1 0 2H8.414l3.879 3.879a1 1 0 0 1 0 1.414z"></path></svg>') no-repeat center center;
+  background-size: 14px 14px;
+  transform: translateY(-50%);
+  content: "";
+  pointer-events: none;
+}
+
+.hero.hero2 > div:last-child > div > p:nth-of-type(3),
+.hero.hero2 > div:last-child > div > p:nth-of-type(4),
+.hero.hero2 > div:last-child > div > p:nth-of-type(5) {
+  display: inline-block;
+  border: 1px solid #fff;
+  color: #fff;
+  border-radius: 22px;
+  padding: 8px 22px;
+  margin-right: 10px;
+  margin-bottom: 0;
+  background: transparent;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.1;
+  box-sizing: border-box;
+}
+
+/* Remove excess vertical margins from text/buttons */
+.hero.hero2 > div:last-child > div > p:nth-of-type(2) {
+  margin-bottom: 4px;
 }
 
 /* --- Responsive --- */
+@media (width >= 900px) {
+  .hero.hero2 {
+    padding: 40px 32px;
+  }
+}
+
 @media (width <= 900px) {
   .hero.hero2 {
     flex-direction: column-reverse;
     min-height: unset;
+    width: 100vw;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    padding-top: 16px;
   }
 
   .hero.hero2 > div {
     flex-direction: column;
     width: 100%;
-    min-height: unset;
-  }
-
-  .hero.hero2 > div:first-child,
-  .hero.hero2 > div:last-child {
-    padding: 20px 6vw 14px;
     min-width: unset;
     max-width: unset;
   }
 
+  .hero.hero2 > div:first-child,
+  .hero.hero2 > div:last-child {
+    padding: 24px 6vw 18px;
+    max-width: unset;
+    min-width: unset;
+  }
+
   .hero.hero2 h1 {
     font-size: 2rem;
+    max-width: 98vw;
+  }
+
+  .hero.hero2 p:not(.button-container, [class]) {
+    max-width: 98vw;
+    font-size: 1.1rem;
   }
 
   .hero.hero2 picture,
   .hero.hero2 img {
-    max-width: 90vw;
+    max-width: 95vw;
+    margin-bottom: 0;
+    margin-right: 0;
   }
 }
