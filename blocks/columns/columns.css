@@ -1,3 +1,4 @@
+
 /* --- FIXED & REORDERED CSS FOR VALIDATION --- */
 
 .columns img {
@@ -27,6 +28,7 @@
 .columns.columns5 {
   --columns5-blue: #0071ce;
   --columns5-gray: #555;
+
   padding: 0;
   margin: 0;
   background: #fff;
@@ -411,10 +413,12 @@
     flex-direction: unset;
     gap: 24px;
   }
+
   .columns > div > div {
     flex: 1;
     order: unset;
   }
+
   .columns.columns5 #ingredientes ~ h3:nth-of-type(5),
   .columns.columns5 #ingredientes ~ ul:nth-of-type(6) {
     margin-left: 65%;
@@ -429,6 +433,7 @@
     max-width: 100%;
     width: 100%;
   }
+
   .columns.columns5 #ingredientes ~ h3,
   .columns.columns5 #ingredientes ~ ul {
     width: 100%;
@@ -438,15 +443,18 @@
     margin-right: 0;
     text-align: center;
   }
+
   .columns.columns5 ul picture img,
   .columns.columns5 ul li picture img {
     width: 64px;
     height: 64px;
   }
+
   .columns.columns35 {
     width: 100vw;
     padding: 0;
   }
+
   .columns.columns35 > div {
     flex-direction: column;
     align-items: center;
@@ -454,6 +462,7 @@
     gap: 36px;
     min-width: 0;
   }
+
   .columns.columns35 .columns-img-col {
     max-width: 220px;
     width: 100%;
@@ -461,11 +470,13 @@
     margin-left: auto;
     margin-right: auto;
   }
+
   .columns.columns4 > div {
     flex-direction: column;
     gap: 40px;
     max-width: 100%;
   }
+
   .columns.columns4 > div > div {
     width: 94vw;
     max-width: 320px;
@@ -480,10 +491,149 @@
     justify-content: center;
     padding: 0;
   }
+
   .columns.columns5 #ingredientes ~ h3,
   .columns.columns5 #ingredientes ~ h3 + ul {
     width: 98vw;
     max-width: 99vw;
     min-width: 0;
   }
+}
+
+/* ===== GENERATED CSS (unchanged except merged selector) ===== */
+
+/* 
+.columns.columns12 {
+  background: #eaf3fa;
+  padding: 36px 0 36px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+*/
+
+/* Main columns row: horizontal flex row, fills width, open horizontal spacing */
+.columns.columns12 > div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 72px;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 36px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Each card: vertical stack, centered content */
+.columns.columns12 > div > div {
+  flex: 1 1 0;
+  max-width: 270px;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background: none;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* Large blue step number with tight spacing to icon */
+.columns.columns12 h2 {
+  color: #0063be;
+  font-weight: 700;
+  font-size: 48px;
+  text-align: center;
+  margin: 0 0 6px;
+  line-height: 1.1;
+  letter-spacing: 0;
+}
+
+/* Icon container: stack icons evenly below numbers */
+.columns.columns12 picture {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  min-height: 60px;
+  margin-bottom: 18px;
+}
+
+/* Blue icons, even size, no extra margin */
+.columns.columns12 picture img {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  display: block;
+  filter: invert(27%) sepia(93%) saturate(1205%) hue-rotate(182deg) brightness(95%) contrast(102%);
+  margin: 0;
+}
+
+/* Card text: centered, readable, aligned and not too wide */
+.columns.columns12 > div > div > p {
+  color: #353c41;
+  font-size: 18px;
+  text-align: center;
+  line-height: 1.4;
+  margin: 0;
+  font-weight: 400;
+  max-width: 230px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Responsive: less gap and tighter columns on smaller screens */
+@media (width <= 1100px) {
+  .columns.columns12 > div {
+    gap: 36px;
+    max-width: 98vw;
+    padding: 0 2vw;
+  }
+
+  .columns.columns12 > div > div {
+    max-width: 43vw;
+  }
+}
+
+/* Mobile: stack columns vertically */
+@media (width <= 700px) {
+  .columns.columns12 > div {
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+    max-width: 100vw;
+    padding: 0 1vw;
+  }
+
+  .columns.columns12 > div > div {
+    max-width: 99vw;
+  }
+
+  .columns.columns12 h2 {
+    font-size: 32px;
+    margin-bottom: 8px;
+  }
+
+  .columns.columns12 picture,
+  .columns.columns12 picture img {
+    height: 42px;
+    min-height: 42px;
+    width: 42px;
+    margin-bottom: 10px;
+  }
+
+  .columns.columns12 > div > div > p {
+    font-size: 15px;
+  }
+}
+
+/* ===== MERGED SELECTOR ===== */
+
+.columns.columns12 {
+  background: #eaf3fa;
+  padding: 36px 0;
+  width: 100%;
+  box-sizing: border-box;
 }
