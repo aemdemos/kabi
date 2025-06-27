@@ -1,3 +1,4 @@
+
 /* Empty line before rule as per rule-empty-line-before */
 
 .cards > ul {
@@ -496,5 +497,112 @@
   .cards.cards16 .cards-card-image {
     padding-left: 12px;
     padding-right: 12px;
+  }
+}
+
+/* --- MERGED SELECTOR FOR .cards.cards17 --- */
+.cards.cards17 {
+  padding: 56px 0;
+  background: #fff;
+}
+
+.cards.cards17 > ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 48px 32px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+}
+
+.cards.cards17 > ul > li {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  padding: 0;
+  width: 22%;
+  min-width: 220px;
+  max-width: 270px;
+  margin: 0;
+}
+
+.cards.cards17 > ul > li:nth-child(5),
+.cards.cards17 > ul > li:nth-child(6) {
+  width: 30%;
+  min-width: 220px;
+  max-width: 340px;
+}
+
+/* Circular image container */
+.cards.cards17 .cards-card-image {
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
+  border: 3px solid #0064B5;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 18px;
+  background: #fff;
+  box-sizing: border-box;
+}
+
+.cards.cards17 .cards-card-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+}
+
+/* Card text */
+.cards.cards17 .cards-card-body {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.cards.cards17 .cards-card-body p {
+  color: #444;
+  font-size: 18px;
+  line-height: 1.33;
+  font-weight: 400;
+  text-align: center;
+  margin: 0;
+  font-family: 'Open Sans', Arial, sans-serif;
+}
+
+/* Responsive adjustments */
+@media (width <= 899px) {
+  .cards.cards17 > ul {
+    flex-direction: column;
+    gap: 32px 0;
+    max-width: 420px;
+  }
+
+  .cards.cards17 > ul > li,
+  .cards.cards17 > ul > li:nth-child(5),
+  .cards.cards17 > ul > li:nth-child(6) {
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .cards.cards17 .cards-card-image {
+    width: 88px;
+    height: 88px;
+    border-width: 2px;
+    margin-bottom: 12px;
+  }
+
+  .cards.cards17 .cards-card-body p {
+    font-size: 15px;
   }
 }
