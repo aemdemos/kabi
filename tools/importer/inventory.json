@@ -1126,12 +1126,6 @@
         {
           "url": "https://www.kabi.es/productos",
           "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
-          "uuid": "bf69d9dd-04-5635fff8552586b351ed09fa1ee027e28483506d",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://www.kabi.es/productos",
-          "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
           "uuid": "bf69d9dd-07-0ce34f003826ee74f25518ce7f8f45d9c5ab0ee1",
           "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[5]"
         },
@@ -1422,6 +1416,12 @@
           "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
           "uuid": "f3d05567-04-052521ec49514edb8db68fd7c36079e5b3d54fd5",
           "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos",
+          "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+          "uuid": "bf69d9dd-04-5635fff8552586b351ed09fa1ee027e28483506d",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[2]"
         }
       ]
     },
