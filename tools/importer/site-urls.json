@@ -127,7 +127,8 @@
       "url": "https://www.kabi.es/recetas/batido-de-chocolate-y-cacahuete",
       "source": "SITEMAPS",
       "targetPath": "/recetas/batido-de-chocolate-y-cacahuete",
-      "id": "dbedb7a3cee9feaeee287993a4e2620ccc8b807e"
+      "id": "dbedb7a3cee9feaeee287993a4e2620ccc8b807e",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.kabi.es/recetas/batido-de-frutos-rojos",
@@ -187,8 +188,7 @@
       "url": "https://www.kabi.es/recetas/helado-de-vainilla",
       "source": "SITEMAPS",
       "targetPath": "/recetas/helado-de-vainilla",
-      "id": "f1d23b69c6d91bb57cff684d3a32c717038c9a00",
-      "status": "EXCLUDED"
+      "id": "f1d23b69c6d91bb57cff684d3a32c717038c9a00"
     },
     {
       "url": "https://www.kabi.es/recetas/risotto-de-champinones",
