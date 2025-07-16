@@ -15,12 +15,6 @@
       "id": "2dbd32f669c3ec861b1b9e5d93baa8d0cc3e9596"
     },
     {
-      "url": "https://www.kabi.es/blog",
-      "source": "SITEMAPS",
-      "targetPath": "/blog",
-      "id": "a443702b5155e241d7df372c8bc3e55ab3117d01"
-    },
-    {
       "url": "https://www.kabi.es/blog/claves-para-envejecer-de-manera-saludable",
       "source": "SITEMAPS",
       "targetPath": "/blog/claves-para-envejecer-de-manera-saludable",
@@ -214,5 +208,10 @@
       "SITEMAPS"
     ]
   },
-  "extractionErrors": []
+  "excludedUrls": [
+    {
+      "url": "https://www.kabi.es/blog",
+      "source": "SITEMAPS"
+    }
+  ]
 }
