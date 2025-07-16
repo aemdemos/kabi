@@ -1,5 +1,6 @@
 {
   "originUrl": "https://www.kabi.es",
+  "targetUrl": "",
   "lastCrawled": "https://www.kabi.es/",
   "urls": [
     {
@@ -186,7 +187,8 @@
       "url": "https://www.kabi.es/recetas/helado-de-vainilla",
       "source": "SITEMAPS",
       "targetPath": "/recetas/helado-de-vainilla",
-      "id": "f1d23b69c6d91bb57cff684d3a32c717038c9a00"
+      "id": "f1d23b69c6d91bb57cff684d3a32c717038c9a00",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.kabi.es/recetas/risotto-de-champinones",
@@ -201,6 +203,8 @@
       "id": "32b2d1104c0a6c58cf68ffb9cae1fdb29974824e"
     }
   ],
+  "excludedUrls": [],
+  "extractionErrors": [],
   "crawlOptions": {
     "timeout": 64800000,
     "inclusionPatterns": [],
@@ -213,6 +217,5 @@
     "strategiesAttempted": [
       "SITEMAPS"
     ]
-  },
-  "extractionErrors": []
+  }
 }
