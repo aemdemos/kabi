@@ -3,12 +3,6 @@
   "lastCrawled": "https://www.kabi.es/",
   "urls": [
     {
-      "url": "https://www.kabi.es/",
-      "source": "SITEMAPS",
-      "targetPath": "/",
-      "id": "12e260717eb4881a9545090aeb97f53b515805e1"
-    },
-    {
       "url": "https://www.kabi.es/aviso-legal",
       "source": "SITEMAPS",
       "targetPath": "/aviso-legal",
@@ -214,5 +208,10 @@
       "SITEMAPS"
     ]
   },
-  "extractionErrors": []
+  "excludedUrls": [
+    {
+      "url": "https://www.kabi.es/",
+      "source": "SITEMAPS"
+    }
+  ]
 }
