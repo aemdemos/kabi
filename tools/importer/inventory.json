@@ -616,12 +616,6 @@
       "key": "cards1",
       "instances": [
         {
-          "url": "https://www.kabi.es/",
-          "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
-          "uuid": "12e26071-13-88b4bbdf6aacdf2377d6d21b7e592a1433bd8009",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]/div[1]"
-        },
-        {
           "url": "https://www.kabi.es/recetas/flan-proteico-de-yogur-y-fresa",
           "urlHash": "1696eeb18ee272df4e58ea965f33e607c30e2c53",
           "uuid": "1696eeb1-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
@@ -1140,6 +1134,12 @@
           "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
           "uuid": "bf69d9dd-09-1fd0cda68a1fffe2817952e7286e8c7a231882ee",
           "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.kabi.es/",
+          "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+          "uuid": "12e26071-13-88b4bbdf6aacdf2377d6d21b7e592a1433bd8009",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]/div[1]"
         }
       ]
     },
