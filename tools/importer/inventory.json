@@ -752,6 +752,12 @@
           "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
           "uuid": "f3d05567-16-f43da136d39251b165497c9bec5ebbc9edad7537",
           "xpath": "/html[1]/body[1]/div[1]/main[1]/section[7]/div[3]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas",
+          "urlHash": "0cb99c4eedd9c39ae76d78b65a451be5ad6ca3c8",
+          "uuid": "0cb99c4e-03-f38e288b5c9322b07f657b47eaf6af0744804d32",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]"
         }
       ]
     },
@@ -1510,21 +1516,6 @@
           "urlHash": "3017f872ac1e5349350a1c6d94cdee8934207182",
           "uuid": "3017f872-03-052521ec49514edb8db68fd7c36079e5b3d54fd5",
           "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 22,
-      "source": "Cards",
-      "target": "Cards (cards22)",
-      "key": "cards22",
-      "instances": [
-        {
-          "url": "https://www.kabi.es/recetas",
-          "urlHash": "0cb99c4eedd9c39ae76d78b65a451be5ad6ca3c8",
-          "uuid": "0cb99c4e-03-f38e288b5c9322b07f657b47eaf6af0744804d32",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]"
         }
       ]
     },
