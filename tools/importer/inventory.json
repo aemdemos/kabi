@@ -704,6 +704,24 @@
           "urlHash": "f2cfea112abf098f96464014fa6b51c18755779f",
           "uuid": "f2cfea11-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
           "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-proteina",
+          "urlHash": "18b6bff33d8c3a2d1cebb2547e48e299f8860e7c",
+          "uuid": "18b6bff3-04-052521ec49514edb8db68fd7c36079e5b3d54fd5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-complet",
+          "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+          "uuid": "5d27aba1-04-052521ec49514edb8db68fd7c36079e5b3d54fd5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-control",
+          "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+          "uuid": "f3d05567-04-052521ec49514edb8db68fd7c36079e5b3d54fd5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
         }
       ]
     },
@@ -1395,33 +1413,6 @@
           "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
           "uuid": "bf69d9dd-12-85b7fc088bbfb3f21fc1dfbcd296ca7e83f8b8b2",
           "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[2]/div[1]"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 17,
-      "source": "Cards",
-      "target": "Cards (cards17)",
-      "key": "cards17",
-      "instances": [
-        {
-          "url": "https://www.kabi.es/productos/kabi-proteina",
-          "urlHash": "18b6bff33d8c3a2d1cebb2547e48e299f8860e7c",
-          "uuid": "18b6bff3-04-052521ec49514edb8db68fd7c36079e5b3d54fd5",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
-        },
-        {
-          "url": "https://www.kabi.es/productos/kabi-complet",
-          "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
-          "uuid": "5d27aba1-04-052521ec49514edb8db68fd7c36079e5b3d54fd5",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
-        },
-        {
-          "url": "https://www.kabi.es/productos/kabi-control",
-          "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
-          "uuid": "f3d05567-04-052521ec49514edb8db68fd7c36079e5b3d54fd5",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
         }
       ]
     },
