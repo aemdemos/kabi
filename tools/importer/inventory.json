@@ -1499,7 +1499,7 @@
       ]
     },
     {
-      "name": "Cards",
+      "name": "Cards (no images)",
       "cluster": 21,
       "source": "Cards",
       "target": "Cards (cards21)",
