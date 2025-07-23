@@ -1307,7 +1307,7 @@
       ]
     },
     {
-      "name": "Cards",
+      "name": "Cards (no images)",
       "cluster": 22,
       "source": "Cards",
       "target": "Cards (cards22)",
