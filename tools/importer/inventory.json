@@ -722,6 +722,36 @@
           "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
           "uuid": "f3d05567-04-052521ec49514edb8db68fd7c36079e5b3d54fd5",
           "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/",
+          "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+          "uuid": "12e26071-10-aff4020a038141c830b3bf98cede7578183063da",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]/div[3]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-proteina",
+          "urlHash": "18b6bff33d8c3a2d1cebb2547e48e299f8860e7c",
+          "uuid": "18b6bff3-11-4a6e608212f75c5a8cb9d51200928bd33dd092bc",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]/div[3]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-complet",
+          "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
+          "uuid": "5d27aba1-16-f43da136d39251b165497c9bec5ebbc9edad7537",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[7]/div[3]"
+        },
+        {
+          "url": "https://www.kabi.es/home",
+          "urlHash": "70f375f2dd9e5e2a4746f0ec6eeafc9913d55aab",
+          "uuid": "70f375f2-10-aff4020a038141c830b3bf98cede7578183063da",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]/div[3]"
+        },
+        {
+          "url": "https://www.kabi.es/productos/kabi-control",
+          "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
+          "uuid": "f3d05567-16-f43da136d39251b165497c9bec5ebbc9edad7537",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[7]/div[3]"
         }
       ]
     },
@@ -1434,45 +1464,6 @@
           "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
           "uuid": "f3d05567-14-88b4bbdf6aacdf2377d6d21b7e592a1433bd8009",
           "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]/div[1]"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 19,
-      "source": "Cards",
-      "target": "Cards (cards19)",
-      "key": "cards19",
-      "instances": [
-        {
-          "url": "https://www.kabi.es/",
-          "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
-          "uuid": "12e26071-10-aff4020a038141c830b3bf98cede7578183063da",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]/div[3]"
-        },
-        {
-          "url": "https://www.kabi.es/productos/kabi-proteina",
-          "urlHash": "18b6bff33d8c3a2d1cebb2547e48e299f8860e7c",
-          "uuid": "18b6bff3-11-4a6e608212f75c5a8cb9d51200928bd33dd092bc",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]/div[3]"
-        },
-        {
-          "url": "https://www.kabi.es/productos/kabi-complet",
-          "urlHash": "5d27aba167d5356fc031f0fedcfab578d440da32",
-          "uuid": "5d27aba1-16-f43da136d39251b165497c9bec5ebbc9edad7537",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[7]/div[3]"
-        },
-        {
-          "url": "https://www.kabi.es/home",
-          "urlHash": "70f375f2dd9e5e2a4746f0ec6eeafc9913d55aab",
-          "uuid": "70f375f2-10-aff4020a038141c830b3bf98cede7578183063da",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[5]/div[3]"
-        },
-        {
-          "url": "https://www.kabi.es/productos/kabi-control",
-          "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
-          "uuid": "f3d05567-16-f43da136d39251b165497c9bec5ebbc9edad7537",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[7]/div[3]"
         }
       ]
     },
