@@ -758,6 +758,12 @@
           "urlHash": "0cb99c4eedd9c39ae76d78b65a451be5ad6ca3c8",
           "uuid": "0cb99c4e-03-f38e288b5c9322b07f657b47eaf6af0744804d32",
           "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.kabi.es/blog",
+          "urlHash": "a443702b5155e241d7df372c8bc3e55ab3117d01",
+          "uuid": "a443702b-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]"
         }
       ]
     },
@@ -1656,21 +1662,6 @@
           "urlHash": "d4c944c2df990161e19962bd64a44906af9fa7b8",
           "uuid": "d4c944c2-02-96fb128b4cfde232aeb9b1f1a6b2f607791aa2eb",
           "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[2]"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 29,
-      "source": "Cards",
-      "target": "Cards (cards29)",
-      "key": "cards29",
-      "instances": [
-        {
-          "url": "https://www.kabi.es/blog",
-          "urlHash": "a443702b5155e241d7df372c8bc3e55ab3117d01",
-          "uuid": "a443702b-01-1c14ff94910f953f4c4d1498eb5d4f9b522981d6",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]"
         }
       ]
     },
