@@ -622,12 +622,6 @@
           "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]/div[1]"
         },
         {
-          "url": "https://www.kabi.es/recetas/flan-proteico-de-yogur-y-fresa",
-          "urlHash": "1696eeb18ee272df4e58ea965f33e607c30e2c53",
-          "uuid": "1696eeb1-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]"
-        },
-        {
           "url": "https://www.kabi.es/recetas/helado-de-leche-con-canela",
           "urlHash": "1bc8a6b94289fc74d35708191fc66ff739ed31c6",
           "uuid": "1bc8a6b9-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
@@ -1990,6 +1984,18 @@
           "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
           "uuid": "bf69d9dd-17-052521ec49514edb8db68fd7c36079e5b3d54fd5",
           "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 37,
+      "instances": [
+        {
+          "url": "https://www.kabi.es/recetas/flan-proteico-de-yogur-y-fresa",
+          "urlHash": "1696eeb18ee272df4e58ea965f33e607c30e2c53",
+          "uuid": "1696eeb1-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]"
         }
       ]
     }
