@@ -710,6 +710,12 @@
           "urlHash": "0cb99c4eedd9c39ae76d78b65a451be5ad6ca3c8",
           "uuid": "0cb99c4e-01-4e74b9bf9f7d4a529dd9ad90445c271e68ad92ba",
           "xpath": "/html[1]/body[1]/div[1]/main[1]/div[2]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas",
+          "urlHash": "0cb99c4eedd9c39ae76d78b65a451be5ad6ca3c8",
+          "uuid": "0cb99c4e-05-2699cf48136889eb4c501db6ef6144845a8f98ab",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
         }
       ]
     },
@@ -1995,12 +2001,6 @@
     }
   ],
   "outliers": [
-    {
-      "url": "https://www.kabi.es/recetas",
-      "urlHash": "0cb99c4eedd9c39ae76d78b65a451be5ad6ca3c8",
-      "uuid": "0cb99c4e-05-2699cf48136889eb4c501db6ef6144845a8f98ab",
-      "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[2]"
-    },
     {
       "url": "https://www.kabi.es/",
       "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
