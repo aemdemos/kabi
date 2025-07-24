@@ -622,12 +622,6 @@
           "xpath": "/html[1]/body[1]/div[1]/main[1]/section[6]/div[1]"
         },
         {
-          "url": "https://www.kabi.es/recetas/helado-de-leche-con-canela",
-          "urlHash": "1bc8a6b94289fc74d35708191fc66ff739ed31c6",
-          "uuid": "1bc8a6b9-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]"
-        },
-        {
           "url": "https://www.kabi.es/recetas/batido-de-frutos-rojos",
           "urlHash": "2d7621940bd8aa32f336b3174f6247fc95149d9b",
           "uuid": "2d762194-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
@@ -1128,6 +1122,12 @@
           "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
           "uuid": "bf69d9dd-09-1fd0cda68a1fffe2817952e7286e8c7a231882ee",
           "xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.kabi.es/recetas/helado-de-leche-con-canela",
+          "urlHash": "1bc8a6b94289fc74d35708191fc66ff739ed31c6",
+          "uuid": "1bc8a6b9-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]"
         }
       ]
     },
