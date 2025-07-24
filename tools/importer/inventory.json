@@ -676,12 +676,6 @@
           "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]"
         },
         {
-          "url": "https://www.kabi.es/productos",
-          "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
-          "uuid": "bf69d9dd-17-052521ec49514edb8db68fd7c36079e5b3d54fd5",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
-        },
-        {
           "url": "https://www.kabi.es/recetas/helado-de-platano",
           "urlHash": "cea75c4e2fa9b64712f704374cc76bbb409fc461",
           "uuid": "cea75c4e-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
@@ -1984,6 +1978,18 @@
           "urlHash": "f3d055671aea3dc51912450a24190a703cbdecbe",
           "uuid": "f3d05567-02-96fb128b4cfde232aeb9b1f1a6b2f607791aa2eb",
           "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 36,
+      "instances": [
+        {
+          "url": "https://www.kabi.es/productos",
+          "urlHash": "bf69d9ddd1001bacd8f970851e1d4434ffad1eae",
+          "uuid": "bf69d9dd-17-052521ec49514edb8db68fd7c36079e5b3d54fd5",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]/div[1]"
         }
       ]
     }
