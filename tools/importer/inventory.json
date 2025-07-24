@@ -2010,15 +2010,21 @@
           "xpath": "/html[1]/body[1]/div[1]/main[1]/section[1]/div[2]"
         }
       ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 37,
+      "instances": [
+        {
+          "url": "https://www.kabi.es/",
+          "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
+          "uuid": "12e26071-04-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
+        }
+      ]
     }
   ],
   "outliers": [
-    {
-      "url": "https://www.kabi.es/",
-      "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
-      "uuid": "12e26071-04-c1931b33eda47e61ff8dca396c2c5afed6a61ed0",
-      "xpath": "/html[1]/body[1]/div[1]/main[1]/section[2]"
-    },
     {
       "url": "https://www.kabi.es/",
       "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
