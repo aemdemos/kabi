@@ -616,6 +616,12 @@
       "key": "cards1",
       "instances": [
         {
+          "url": "https://www.kabi.es/recetas/batido-de-frutos-rojos",
+          "urlHash": "2d7621940bd8aa32f336b3174f6247fc95149d9b",
+          "uuid": "2d762194-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
+          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]"
+        },
+        {
           "url": "https://www.kabi.es/",
           "urlHash": "12e260717eb4881a9545090aeb97f53b515805e1",
           "uuid": "12e26071-13-88b4bbdf6aacdf2377d6d21b7e592a1433bd8009",
@@ -631,12 +637,6 @@
           "url": "https://www.kabi.es/recetas/helado-de-leche-con-canela",
           "urlHash": "1bc8a6b94289fc74d35708191fc66ff739ed31c6",
           "uuid": "1bc8a6b9-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
-          "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]"
-        },
-        {
-          "url": "https://www.kabi.es/recetas/batido-de-frutos-rojos",
-          "urlHash": "2d7621940bd8aa32f336b3174f6247fc95149d9b",
-          "uuid": "2d762194-06-5c7e161dd06a2054bd85ad5bad11c3ddf78b8509",
           "xpath": "/html[1]/body[1]/div[1]/main[1]/section[3]/div[1]"
         },
         {
