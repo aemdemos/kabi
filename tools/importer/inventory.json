@@ -609,9 +609,9 @@
   ],
   "blocks": [
     {
-      "name": "Cards",
+      "name": "Not main block",
       "cluster": 1,
-      "source": "Cards",
+      "source": "Not main source",
       "target": "Cards (cards1)",
       "key": "cards1",
       "instances": [
