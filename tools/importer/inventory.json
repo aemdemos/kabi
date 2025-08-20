@@ -1018,7 +1018,7 @@
       ]
     },
     {
-      "name": "Cards",
+      "name": "Hero",
       "cluster": 7,
       "source": "Cards",
       "target": "Cards (cards7)",
