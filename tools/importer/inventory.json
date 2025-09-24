@@ -609,11 +609,11 @@
   ],
   "blocks": [
     {
-      "name": "Cards",
+      "name": "Cards (no images)",
       "cluster": 1,
-      "source": "Cards",
-      "target": "Cards (cards1)",
-      "key": "cards1",
+      "source": "Cards (no images)",
+      "target": "Cards (no images, cardsNoImages1)",
+      "key": "cardsNoImages1",
       "instances": [
         {
           "url": "https://www.kabi.es/",
