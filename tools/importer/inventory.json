@@ -1120,7 +1120,7 @@
       "name": "Cards",
       "cluster": 7,
       "source": "Cards",
-      "target": "Cards (cards7)",
+      "target": "Cards (cards7, variant2)",
       "key": "cards7",
       "instances": [
         {
