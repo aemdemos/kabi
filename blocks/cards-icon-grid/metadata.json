@@ -1,0 +1,38 @@
+{
+  "variantName": "cards-icon-grid",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2025-12-15T08:44:43.467Z",
+  "sourceContext": {
+    "originUrl": "https://www.wknd-trendsetters.site/",
+    "originPage": "fashion blog homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "feature-grid",
+    "imagePattern": "icon"
+  },
+  "contentPattern": {
+    "structure": "grid of items with icons and text",
+    "buttonCount": 0,
+    "imageCount": 8
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "feature lists with icons",
+      "benefits grids",
+      "service offerings"
+    ],
+    "notSuitableFor": [
+      "article cards with large images",
+      "product listings"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/index"],
+    "reuseCount": 1,
+    "lastUsed": "2025-12-15T08:44:43.467Z"
+  }
+}

@@ -1,0 +1,27 @@
+.cards-icon-grid > ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(257px, 1fr));
+  grid-gap: 24px;
+}
+
+.cards-icon-grid > ul > li {
+  border: none;
+  background-color: transparent;
+}
+
+.cards-icon-grid .cards-icon-grid-card-body {
+  margin: 16px;
+}
+
+.cards-icon-grid .cards-icon-grid-card-image {
+  line-height: 0;
+}
+
+.cards-icon-grid > ul > li img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
