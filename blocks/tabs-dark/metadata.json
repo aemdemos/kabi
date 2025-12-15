@@ -1,0 +1,38 @@
+{
+  "variantName": "tabs-dark",
+  "baseBlock": "tabs",
+  "version": "1.0.0",
+  "created": "2025-12-15T08:44:43.467Z",
+  "sourceContext": {
+    "originUrl": "https://www.wknd-trendsetters.site/",
+    "originPage": "fashion blog homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "minimal",
+    "purpose": "content-switcher",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "tab navigation with 3 content panels",
+    "buttonCount": 0,
+    "imageCount": 3
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "content switchers on dark backgrounds",
+      "category navigation",
+      "multi-view content"
+    ],
+    "notSuitableFor": [
+      "light backgrounds",
+      "simple content sections"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/index"],
+    "reuseCount": 1,
+    "lastUsed": "2025-12-15T08:44:43.467Z"
+  }
+}

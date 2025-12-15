@@ -1,0 +1,38 @@
+{
+  "variantName": "columns-cta",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2025-12-15T08:44:43.467Z",
+  "sourceContext": {
+    "originUrl": "https://www.wknd-trendsetters.site/",
+    "originPage": "fashion blog homepage",
+    "blockPosition": "bottom"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "minimal",
+    "purpose": "cta-section",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "2 columns: text content + buttons",
+    "buttonCount": 2,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "CTA sections",
+      "call-to-action layouts",
+      "sign-up sections"
+    ],
+    "notSuitableFor": [
+      "image showcases",
+      "article listings"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/index"],
+    "reuseCount": 1,
+    "lastUsed": "2025-12-15T08:44:43.467Z"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "templates": [
+    {
+      "name": "fashion-blog-homepage",
+      "urls": [
+        "https://www.wknd-trendsetters.site/"
+      ],
+      "description": "Fashion blog homepage template with hero, feature grid, article cards, tabs, FAQ accordion, and CTA section",
+      "blocks": [
+        {
+          "name": "section-1",
+          "instances": [
+            "header.section.utility-overflow-hidden.secondary-section"
+          ],
+          "section": "light"
+        },
+        {
+          "name": "columns-hero-images",
+          "instances": [
+            "header.section.utility-overflow-hidden.secondary-section .w-layout-grid.grid-layout.mobile-portrait-1-column.grid-gap-md.utility-margin-top-8rem.y-top"
+          ]
+        },
+        {
+          "name": "section-2",
+          "instances": [
+            "section.section:nth-of-type(1)"
+          ],
+          "section": "light"
+        },
+        {
+          "name": "cards-icon-grid",
+          "instances": [
+            "section.section:nth-of-type(1) .w-layout-grid.grid-layout.desktop-4-column.tablet-3-column.mobile-landscape-2-column.mobile-portrait-1-column.grid-gap-md.utility-margin-top-4rem"
+          ]
+        },
+        {
+          "name": "section-3",
+          "instances": [
+            "section.section.secondary-section:nth-of-type(1)"
+          ],
+          "section": "grey"
+        },
+        {
+          "name": "cards-article",
+          "instances": [
+            "section.section.secondary-section:nth-of-type(1) .w-layout-grid.grid-layout.tablet-1-column.grid-gap-md"
+          ]
+        },
+        {
+          "name": "section-4",
+          "instances": [
+            "section.section.inverse-section"
+          ],
+          "section": "dark"
+        },
+        {
+          "name": "tabs-dark",
+          "instances": [
+            "section.section.inverse-section .w-tabs"
+          ]
+        },
+        {
+          "name": "section-5",
+          "instances": [
+            "section.section.secondary-section:nth-of-type(2)"
+          ],
+          "section": "grey"
+        },
+        {
+          "name": "accordion-faq",
+          "instances": [
+            "section.section.secondary-section:nth-of-type(2) .flex-vertical"
+          ]
+        },
+        {
+          "name": "section-6",
+          "instances": [
+            "section.section:nth-of-type(2)"
+          ],
+          "section": "light"
+        },
+        {
+          "name": "columns-cta",
+          "instances": [
+            "section.section:nth-of-type(2) .w-layout-grid.grid-layout.desktop-4-column.tablet-1-column.grid-gap-sm.y-center"
+          ]
+        }
+      ]
+    }
+  ]
+}
