@@ -1,0 +1,19 @@
+{
+  "templates": [
+    {
+      "name": "wknd-adventures-landing",
+      "urls": ["https://wknd.site/us/en/adventures.html"],
+      "description": "WKND Adventures landing page template with hero section and tabbed adventure listings",
+      "blocks": [
+        {
+          "name": "hero-adventure",
+          "instances": [".teaser.cmp-teaser--hero"]
+        },
+        {
+          "name": "tabs-adventure",
+          "instances": [".tabs.panelcontainer"]
+        }
+      ]
+    }
+  ]
+}
