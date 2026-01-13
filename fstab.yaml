@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/aemdemos/kabi/
+    url: https://faultyfaultyfaulty.da.live/aemdemos/kabi/
     type: markup
