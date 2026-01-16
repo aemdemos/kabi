@@ -53,6 +53,28 @@
           "section": "secondary"
         }
       ]
+    },
+    {
+      "name": "faq-page",
+      "urls": [
+        "https://www.wknd-trendsetters.site/faq"
+      ],
+      "description": "FAQ page with question-answer accordion, contact information, and CTA banner",
+      "blocks": [
+        {
+          "name": "accordion-faq",
+          "instances": [
+            "section.section.secondary-section .flex-horizontal.flex-vertical.flex-gap-sm"
+          ],
+          "section": "secondary"
+        },
+        {
+          "name": "hero-cta",
+          "instances": [
+            "section.section.inverse-section"
+          ]
+        }
+      ]
     }
   ]
 }
