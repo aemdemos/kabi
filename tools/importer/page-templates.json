@@ -1,0 +1,58 @@
+{
+  "templates": [
+    {
+      "name": "fashion-insights-blog-page",
+      "urls": ["https://www.wknd-trendsetters.site/fashion-insights"],
+      "description": "Fashion blog landing page with hero header, article cards, image gallery, and CTA banner",
+      "blocks": [
+        {
+          "name": "hero-blog",
+          "instances": ["header.section.inverse-section"]
+        },
+        {
+          "name": "cards-article",
+          "instances": ["section.section.secondary-section .grid-layout.desktop-4-column"],
+          "section": "style=light"
+        },
+        {
+          "name": "cards-gallery",
+          "instances": ["section.section:not(.secondary-section):not(.inverse-section) .grid-layout.desktop-3-column"],
+          "section": "style=light"
+        },
+        {
+          "name": "hero-cta",
+          "instances": ["section.section.inverse-section:last-of-type"]
+        }
+      ]
+    },
+    {
+      "name": "fashion-trends-page",
+      "urls": [
+        "https://www.wknd-trendsetters.site/fashion-trends-of-the-season"
+      ],
+      "description": "Fashion trends showcase page with hero banner, image galleries, and CTA section",
+      "blocks": [
+        {
+          "name": "hero-trends",
+          "instances": [
+            "header.inverse-section"
+          ]
+        },
+        {
+          "name": "cards-gallery",
+          "instances": [
+            "section.secondary-section:nth-of-type(1) .grid-layout",
+            "section:not(.secondary-section):not(.footer) .grid-layout.desktop-3-column"
+          ]
+        },
+        {
+          "name": "hero-cta-light",
+          "instances": [
+            "section.secondary-section:last-of-type .card"
+          ],
+          "section": "secondary"
+        }
+      ]
+    }
+  ]
+}
