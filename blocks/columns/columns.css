@@ -1,11 +1,13 @@
-
+/* stylelint-disable no-descending-specificity */
 
 /* --- FIXED & REORDERED CSS FOR VALIDATION --- */
 
+/* Default image styling for columns block */
 .columns img {
   width: 100%;
 }
 
+/* Base columns container layout */
 .columns > div {
   display: flex;
   flex-direction: column;
