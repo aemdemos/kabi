@@ -1,0 +1,4 @@
+This is dummy file number 3.
+
+Part of the test file series.
+Contains example text and data.
