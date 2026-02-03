@@ -7,3 +7,5 @@ Additional modification to verify hook logging.
 Ensuring all environment details are captured.
 Third modification to continue testing.
 Verifying the pre-commit debug functionality works correctly.
+Fourth modification for comprehensive testing.
+Validating that the hook captures all git operations.
