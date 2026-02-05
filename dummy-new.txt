@@ -1,0 +1,3 @@
+This is a new dummy text file in root.
+
+Sample content for testing.
