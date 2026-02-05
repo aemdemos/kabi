@@ -1,3 +1,6 @@
 This is a new dummy text file in root.
 
 Sample content for testing.
+
+Additional line added to the file.
+More content here for demonstration purposes.
