@@ -1,0 +1,38 @@
+{
+  "variantName": "columns-landing",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2026-03-31T00:00:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.wknd-trendsetters.site/",
+    "originPage": "WKND Trendsetters landing page",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "landing-page-layout",
+    "imagePattern": "mixed"
+  },
+  "contentPattern": {
+    "structure": "2 columns - text + images side-by-side",
+    "buttonCount": 2,
+    "imageCount": 3
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "landing pages with side-by-side content",
+      "hero sections with text and images",
+      "feature showcases with images"
+    ],
+    "notSuitableFor": [
+      "pure text layouts",
+      "3+ column layouts"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-03-31T00:00:00.000Z"
+  }
+}

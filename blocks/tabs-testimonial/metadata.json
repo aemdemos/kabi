@@ -1,0 +1,38 @@
+{
+  "variantName": "tabs-testimonial",
+  "baseBlock": "tabs",
+  "version": "1.0.0",
+  "created": "2026-03-31T00:00:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.wknd-trendsetters.site/",
+    "originPage": "WKND Trendsetters landing page",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "white",
+    "density": "normal",
+    "purpose": "testimonial-switcher",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "4 tabs with image + name + title + quote, avatar navigation",
+    "buttonCount": 0,
+    "imageCount": 8
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "testimonial sections",
+      "customer quote showcases",
+      "team member profiles with switching"
+    ],
+    "notSuitableFor": [
+      "general tabbed content",
+      "documentation sections"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-03-31T00:00:00.000Z"
+  }
+}
