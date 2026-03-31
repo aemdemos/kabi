@@ -1,0 +1,38 @@
+{
+  "variantName": "hero-overlay",
+  "baseBlock": "hero",
+  "version": "1.0.0",
+  "created": "2026-03-31T00:00:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.wknd-trendsetters.site/",
+    "originPage": "WKND Trendsetters landing page",
+    "blockPosition": "bottom"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "spacious",
+    "purpose": "cta-hero",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "full-width background image with heading + paragraph + button overlay",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "closing CTA sections",
+      "full-width hero banners",
+      "sections with background images and text overlay"
+    ],
+    "notSuitableFor": [
+      "simple text-only heroes",
+      "heroes without background images"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-03-31T00:00:00.000Z"
+  }
+}

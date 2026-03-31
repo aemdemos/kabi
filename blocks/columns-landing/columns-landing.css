@@ -1,0 +1,33 @@
+.columns-landing > div {
+  display: flex;
+  flex-direction: column;
+}
+
+.columns-landing img {
+  width: 100%;
+}
+
+.columns-landing > div > div {
+  order: 1;
+}
+
+.columns-landing > div > .columns-landing-img-col {
+  order: 0;
+}
+
+.columns-landing > div > .columns-landing-img-col img {
+  display: block;
+}
+
+@media (width >= 900px) {
+  .columns-landing > div {
+    align-items: center;
+    flex-direction: unset;
+    gap: 24px;
+  }
+
+  .columns-landing > div > div {
+    flex: 1;
+    order: unset;
+  }
+}
