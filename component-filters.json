@@ -19,9 +19,27 @@
     ]
   },
   {
+    "id": "accordion-faq",
+    "components": [
+      "accordion-faq-item"
+    ]
+  },
+  {
     "id": "accordion",
     "components": [
       "accordion-item"
+    ]
+  },
+  {
+    "id": "cards-article",
+    "components": [
+      "card"
+    ]
+  },
+  {
+    "id": "cards-gallery",
+    "components": [
+      "card"
     ]
   },
   {
@@ -34,6 +52,21 @@
     "id": "carousel",
     "components": [
       "carousel-item"
+    ]
+  },
+  {
+    "id": "columns-editorial",
+    "components": [
+      "column"
+    ]
+  },
+  {
+    "id": "column",
+    "components": [
+      "text",
+      "image",
+      "button",
+      "title"
     ]
   },
   {
@@ -73,6 +106,12 @@
     "id": "table-4-columns",
     "components": [
       "table-col-4"
+    ]
+  },
+  {
+    "id": "tabs-testimonial",
+    "components": [
+      "tabs-testimonial-item"
     ]
   },
   {
