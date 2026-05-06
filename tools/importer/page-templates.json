@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "projectType": "doc"
+  },
+  "templates": [
+    {
+      "name": "homepage",
+      "urls": [
+        "https://main--kabi--aemdemos.aem.page/"
+      ],
+      "description": "Kabi homepage template",
+      "blocks": [
+        {
+          "name": "columns-images",
+          "instances": [
+            ".columns.columns31"
+          ]
+        },
+        {
+          "name": "cards-features",
+          "instances": [
+            ".cards.cards21"
+          ]
+        },
+        {
+          "name": "cards-articles",
+          "instances": [
+            ".cards.cards34"
+          ]
+        },
+        {
+          "name": "tabs-simple",
+          "instances": [
+            ".tabs.tabs32"
+          ]
+        },
+        {
+          "name": "hero-banner",
+          "instances": [
+            ".hero.hero24"
+          ]
+        },
+        {
+          "name": "accordion-faq",
+          "instances": [
+            ".accordion.accordion19"
+          ]
+        },
+        {
+          "name": "section-cta",
+          "instances": [
+            ".columns.columns5.columns-1-cols"
+          ],
+          "section": "accent"
+        }
+      ],
+      "sections": [
+        {
+          "id": "section-1-intro",
+          "name": "Hero intro with side-by-side images",
+          "selector": ".columns.columns31",
+          "style": null,
+          "blocks": [
+            "columns-images"
+          ],
+          "defaultContent": [
+            "h1#trendsetters-game-changers-night-owls"
+          ]
+        },
+        {
+          "id": "section-2-features",
+          "name": "Features grid (text-only cards)",
+          "selector": ".cards.cards21",
+          "style": null,
+          "blocks": [
+            "cards-features"
+          ],
+          "defaultContent": [
+            "h2#trends-made-for-your-lifestyle"
+          ]
+        },
+        {
+          "id": "section-3-articles",
+          "name": "Article cards with tabs",
+          "selector": ".cards.cards34",
+          "style": null,
+          "blocks": [
+            "cards-articles",
+            "tabs-simple"
+          ],
+          "defaultContent": [
+            "h2#style-that-never-sleeps"
+          ]
+        },
+        {
+          "id": "section-4-hero",
+          "name": "Hero banner with background image",
+          "selector": ".hero.hero24",
+          "style": null,
+          "blocks": [
+            "hero-banner"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-5-faq",
+          "name": "FAQ accordion section",
+          "selector": ".accordion.accordion19",
+          "style": null,
+          "blocks": [
+            "accordion-faq"
+          ],
+          "defaultContent": [
+            "h2#style-qs-real-quick-answers"
+          ]
+        },
+        {
+          "id": "section-6-cta",
+          "name": "Call-to-action signup section",
+          "selector": ".columns.columns5.columns-1-cols",
+          "style": "accent",
+          "blocks": [],
+          "defaultContent": [
+            "h2#join-the-style-revolution"
+          ]
+        }
+      ]
+    }
+  ]
+}
