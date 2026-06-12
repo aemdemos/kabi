@@ -1,0 +1,80 @@
+.accordion-faq {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.accordion-faq details {
+  border: none;
+  border-bottom: 1px solid #dadada;
+}
+
+.accordion-faq details + details {
+  margin-top: 0;
+}
+
+.accordion-faq details:first-child {
+  border-top: 1px solid #dadada;
+}
+
+.accordion-faq details p {
+  margin: 0 0 0.8em;
+  font-size: var(--body-font-size-s, 14px);
+  color: var(--text-color-secondary, #666);
+}
+
+.accordion-faq details summary {
+  position: relative;
+  padding: 20px 48px 20px 0;
+  cursor: pointer;
+  list-style: none;
+  font-weight: 500;
+  font-size: var(--body-font-size-m, 16px);
+  transition: color 0.2s;
+}
+
+.accordion-faq details[open] summary {
+  background-color: transparent;
+}
+
+.accordion-faq details summary:focus,
+.accordion-faq details summary:hover {
+  background-color: transparent;
+  color: var(--link-color, #111);
+}
+
+.accordion-faq details summary::-webkit-details-marker {
+  display: none;
+}
+
+.accordion-faq details summary::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  right: 8px;
+  width: 14px;
+  height: 14px;
+  background-image: linear-gradient(currentcolor, currentcolor),
+    linear-gradient(currentcolor, currentcolor);
+  background-size: 100% 2px, 2px 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  transform: translateY(-50%) rotate(0deg);
+  transition: transform 0.2s;
+  border: none;
+}
+
+.accordion-faq details[open] summary::after {
+  background-size: 100% 2px, 0 100%;
+  transform: translateY(-50%) rotate(0deg);
+}
+
+.accordion-faq details .accordion-faq-item-body {
+  padding: 0 48px 20px 0;
+  border: none;
+}
+
+.accordion-faq details[open] .accordion-faq-item-body {
+  border-top: none;
+  background-color: transparent;
+}

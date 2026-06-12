@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "projectType": "doc"
+  },
+  "templates": [
+    {
+      "name": "homepage",
+      "urls": [
+        "https://www.wknd-trendsetters.site/"
+      ],
+      "description": "WKND Trendsetters homepage with hero, featured content, and brand sections",
+      "blocks": [
+        {
+          "name": "columns-hero",
+          "instances": ["main > header.section.secondary-section .grid-layout.tablet-1-column.grid-gap-xxl"]
+        },
+        {
+          "name": "columns-article",
+          "instances": ["main > section.section:not(.secondary-section):not(.inverse-section):nth-of-type(1) .grid-layout.tablet-1-column.grid-gap-lg"]
+        },
+        {
+          "name": "cards-gallery",
+          "instances": ["main > section.section.secondary-section:nth-of-type(2) .grid-layout.desktop-4-column.grid-gap-sm"]
+        },
+        {
+          "name": "tabs-testimonials",
+          "instances": [".tabs-wrapper"]
+        },
+        {
+          "name": "cards-articles",
+          "instances": ["main > section.section.secondary-section .grid-layout.desktop-4-column.grid-gap-md"]
+        },
+        {
+          "name": "accordion-faq",
+          "instances": [".faq-list"]
+        },
+        {
+          "name": "hero-overlay",
+          "instances": ["main > section.section.inverse-section .utility-position-relative"]
+        }
+      ],
+      "sections": [
+        {
+          "id": "section-1",
+          "name": "Hero",
+          "selector": "main > header.section.secondary-section",
+          "style": "grey",
+          "blocks": ["columns-hero"],
+          "defaultContent": []
+        },
+        {
+          "id": "section-2",
+          "name": "Article header",
+          "selector": "main > section.section:not(.secondary-section):not(.inverse-section):nth-of-type(1)",
+          "style": null,
+          "blocks": ["columns-article"],
+          "defaultContent": []
+        },
+        {
+          "id": "section-3",
+          "name": "Style in every snapshot - image grid",
+          "selector": "main > section.section.secondary-section:nth-of-type(2)",
+          "style": "grey",
+          "blocks": ["cards-gallery"],
+          "defaultContent": [
+            "main > section.section.secondary-section:nth-of-type(2) .utility-text-align-center > h2",
+            "main > section.section.secondary-section:nth-of-type(2) .utility-text-align-center > p"
+          ]
+        },
+        {
+          "id": "section-4",
+          "name": "Tabbed testimonials",
+          "selector": "main > section.section:not(.secondary-section):not(.inverse-section):nth-of-type(2)",
+          "style": null,
+          "blocks": ["tabs-testimonials"],
+          "defaultContent": []
+        },
+        {
+          "id": "section-5",
+          "name": "Latest articles",
+          "selector": "main > section.section.secondary-section:nth-of-type(3)",
+          "style": "grey",
+          "blocks": ["cards-articles"],
+          "defaultContent": [
+            "main > section.section.secondary-section:nth-of-type(3) .utility-text-align-center > h2",
+            "main > section.section.secondary-section:nth-of-type(3) .utility-text-align-center > p"
+          ]
+        },
+        {
+          "id": "section-6",
+          "name": "FAQ",
+          "selector": "main > section.section:not(.secondary-section):not(.inverse-section):nth-of-type(3)",
+          "style": null,
+          "blocks": ["accordion-faq"],
+          "defaultContent": [
+            "main > section.section:not(.secondary-section):not(.inverse-section):nth-of-type(3) > .container > .grid-layout > div:first-child > h2",
+            "main > section.section:not(.secondary-section):not(.inverse-section):nth-of-type(3) > .container > .grid-layout > div:first-child > p"
+          ]
+        },
+        {
+          "id": "section-7",
+          "name": "Closing CTA hero",
+          "selector": "main > section.section.inverse-section",
+          "style": null,
+          "blocks": ["hero-overlay"],
+          "defaultContent": []
+        }
+      ]
+    }
+  ]
+}

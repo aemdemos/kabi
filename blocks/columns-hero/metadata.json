@@ -1,0 +1,39 @@
+{
+  "variantName": "columns-hero",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2026-06-03T10:24:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.wknd-trendsetters.site/",
+    "originPage": "homepage",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "hero",
+    "imagePattern": "stacked-grid"
+  },
+  "contentPattern": {
+    "structure": "heading + subheading + 2 CTAs | stacked images",
+    "buttonCount": 2,
+    "imageCount": 3
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "homepage hero with side image stack",
+      "landing pages with text + image-grid hero",
+      "editorial-style hero sections"
+    ],
+    "notSuitableFor": [
+      "single full-bleed image hero",
+      "centered-text-only hero",
+      "dark/inverse hero sections"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-06-03T10:24:00.000Z"
+  }
+}

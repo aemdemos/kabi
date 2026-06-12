@@ -1,0 +1,38 @@
+{
+  "variantName": "hero-overlay",
+  "baseBlock": "hero",
+  "version": "1.0.0",
+  "created": "2026-06-03T10:24:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.wknd-trendsetters.site/",
+    "originPage": "homepage",
+    "blockPosition": "bottom"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "spacious",
+    "purpose": "closing-cta-hero",
+    "imagePattern": "fullbleed-overlay"
+  },
+  "contentPattern": {
+    "structure": "background image + dark overlay + heading + subheading + CTA button",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "closing CTA banner with full-bleed photo",
+      "dark hero sections with overlay text",
+      "page intros with photo backgrounds and white text"
+    ],
+    "notSuitableFor": [
+      "light/no-image hero sections",
+      "two-column hero layouts with side images"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-06-03T10:24:00.000Z"
+  }
+}

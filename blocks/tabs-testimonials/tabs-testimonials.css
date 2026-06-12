@@ -1,0 +1,111 @@
+.tabs-testimonials {
+  display: flex;
+  flex-direction: column;
+}
+
+.tabs-testimonials .tabs-testimonials-panel {
+  margin-top: 0;
+  padding: 24px 0;
+  border: none;
+  overflow: visible;
+  order: 1;
+}
+
+.tabs-testimonials .tabs-testimonials-panel[aria-hidden='true'] {
+  display: none;
+}
+
+.tabs-testimonials .tabs-testimonials-panel > div {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+  align-items: center;
+}
+
+.tabs-testimonials .tabs-testimonials-panel img {
+  width: 100%;
+  border-radius: 4px;
+  display: block;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.tabs-testimonials .tabs-testimonials-panel p {
+  font-size: var(--body-font-size-l, 20px);
+  line-height: 1.4;
+  margin: 12px 0 0;
+}
+
+.tabs-testimonials .tabs-testimonials-panel strong {
+  display: block;
+  font-size: var(--heading-font-size-m, 22px);
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.tabs-testimonials .tabs-testimonials-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 8px;
+  font-size: var(--body-font-size-s, 14px);
+  margin-top: 32px;
+  order: 2;
+}
+
+.tabs-testimonials .tabs-testimonials-list button {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 0;
+  border: 1px solid #dadada;
+  border-radius: 4px;
+  padding: 12px 16px;
+  background-color: var(--background-color);
+  color: inherit;
+  font-weight: normal;
+  text-align: left;
+  cursor: pointer;
+  transition: background-color 0.2s, border-color 0.2s;
+}
+
+.tabs-testimonials .tabs-testimonials-list button img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.tabs-testimonials .tabs-testimonials-list button p {
+  margin: 0;
+  font-size: var(--body-font-size-s, 14px);
+}
+
+.tabs-testimonials .tabs-testimonials-list button strong {
+  display: block;
+  font-weight: 600;
+  font-size: var(--body-font-size-s, 14px);
+}
+
+.tabs-testimonials .tabs-testimonials-list button[aria-selected='true'] {
+  border-color: var(--text-color, #111);
+  background-color: var(--light-color, #f5f5f5);
+  cursor: default;
+}
+
+@media (width >= 600px) {
+  .tabs-testimonials .tabs-testimonials-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (width >= 900px) {
+  .tabs-testimonials .tabs-testimonials-list {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  .tabs-testimonials .tabs-testimonials-panel > div {
+    grid-template-columns: 1fr 1fr;
+    gap: 48px;
+  }
+}
