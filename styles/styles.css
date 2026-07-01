@@ -14,18 +14,18 @@
   --background-color: white;
   --light-color: #f8f8f8;
   --dark-color: #505050;
-  --text-color: #131313;
-  --link-color: #3b63fb;
-  --link-hover-color: #1d3ecf;
-  --body-font-family: "Open Sans", "Open Sans Fallback", "Verdana", "Geneva", "sans-serif";
-  --heading-font-family: "Open Sans", "Open Sans Fallback", "Verdana", "Geneva", "sans-serif";
+  --text-color: #000;
+  --link-color: rgba(0, 0, 0, 0.75);
+  --link-hover-color: #000;
+  --body-font-family: "Instrument Sans", sans-serif;
+  --heading-font-family: "Instrument Sans", sans-serif;
   --body-font-size-m: 16px;
   --body-font-size-s: 13.28px;
   --body-font-size-xs: 10.72px;
-  --heading-font-size-xxl: 32px;
-  --heading-font-size-xl: 48px;
+  --heading-font-size-xxl: 72px;
+  --heading-font-size-xl: 36px;
   --heading-font-size-l: 25.6px;
-  --heading-font-size-m: 16px;
+  --heading-font-size-m: 18px;
   --heading-font-size-s: 13.28px;
   --heading-font-size-xs: 10.72px;
   --nav-height: 64px;
@@ -104,10 +104,10 @@
     --body-font-size-m: 16px;
     --body-font-size-s: 13.28px;
     --body-font-size-xs: 10.72px;
-    --heading-font-size-xxl: 32px;
-    --heading-font-size-xl: 48px;
+    --heading-font-size-xxl: 72px;
+    --heading-font-size-xl: 36px;
     --heading-font-size-l: 25.6px;
-    --heading-font-size-m: 16px;
+    --heading-font-size-m: 18px;
     --heading-font-size-s: 13.28px;
     --heading-font-size-xs: 10.72px;
   }
@@ -143,8 +143,8 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0.8em;
   margin-bottom: 0.25em;
   font-family: var(--heading-font-family);
-  font-weight: 600;
-  line-height: 1.25;
+  font-weight: 400;
+  line-height: 1.04;
   scroll-margin: 40px;
 }
 
@@ -215,17 +215,18 @@ a.button:any-link, button {
   display: inline-block;
   max-width: 100%;
   margin: 12px 0;
-  border: 2px solid transparent;
-  border-radius: 2.4em;
-  padding: 0.5em 1.2em;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 1600px;
+  padding: 9px 14px;
   font-family: var(--body-font-family);
   font-style: normal;
-  font-weight: 500;
+  font-weight: 400;
+  font-size: 18px;
   line-height: 1.25;
   text-align: center;
   text-decoration: none;
-  background-color: var(--link-color);
-  color: var(--background-color);
+  background-color: transparent;
+  color: var(--text-color);
   cursor: pointer;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -233,7 +234,7 @@ a.button:any-link, button {
 }
 
 a.button:hover, a.button:focus, button:hover, button:focus {
-  background-color: var(--link-hover-color);
+  background-color: rgba(0, 0, 0, 0.05);
   cursor: pointer;
 }
 
