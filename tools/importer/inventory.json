@@ -612,7 +612,7 @@
       "name": "Cards",
       "cluster": 1,
       "source": "Cards",
-      "target": "Cards (cards1)",
+      "target": "Cards (tomato, potato)",
       "key": "cards1",
       "instances": [
         {
