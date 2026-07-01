@@ -1,0 +1,6 @@
+This is a dummy test file.
+Created for testing purposes.
+Modified on 2026-02-02.
+Added extra content for git commit testing.
+Second modification - testing pre-commit hook functionality.
+Additional line for debugging git operations.
