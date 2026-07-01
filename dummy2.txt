@@ -1,0 +1,4 @@
+This is dummy file number 2.
+
+Sample content for development and testing.
+Ready for modifications as needed.
