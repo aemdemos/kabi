@@ -12,7 +12,8 @@
       "url": "https://www.kabi.es/aviso-legal",
       "source": "SITEMAPS",
       "targetPath": "/aviso-legal",
-      "id": "2dbd32f669c3ec861b1b9e5d93baa8d0cc3e9596"
+      "id": "2dbd32f669c3ec861b1b9e5d93baa8d0cc3e9596",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.kabi.es/blog",
@@ -201,6 +202,7 @@
       "id": "32b2d1104c0a6c58cf68ffb9cae1fdb29974824e"
     }
   ],
+  "extractionErrors": [],
   "crawlOptions": {
     "timeout": 64800000,
     "inclusionPatterns": [],
@@ -213,6 +215,5 @@
     "strategiesAttempted": [
       "SITEMAPS"
     ]
-  },
-  "extractionErrors": []
+  }
 }
