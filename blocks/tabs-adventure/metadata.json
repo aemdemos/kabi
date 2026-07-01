@@ -1,0 +1,39 @@
+{
+  "variantName": "tabs-adventure",
+  "baseBlock": "tabs",
+  "version": "1.0.0",
+  "created": "2026-01-09T11:28:30.000Z",
+  "sourceContext": {
+    "originUrl": "https://wknd.site/us/en/adventures.html",
+    "originPage": "WKND Adventures landing page",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "standard",
+    "purpose": "adventure-listing",
+    "imagePattern": "cards-inside"
+  },
+  "contentPattern": {
+    "structure": "6 tabs with filterable grid content",
+    "buttonCount": 0,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "filtered content listings",
+      "categorized adventure/activity pages",
+      "multi-category product pages"
+    ],
+    "notSuitableFor": [
+      "simple FAQ sections",
+      "single category content",
+      "pages without filterable content"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/us/en/adventures"],
+    "reuseCount": 1,
+    "lastUsed": "2026-01-09T11:28:30.000Z"
+  }
+}
