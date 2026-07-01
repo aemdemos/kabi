@@ -1,6 +1,8 @@
+/* Instrument Sans from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap');
 
 @font-face {
-  font-family: "Open Sans";      
+  font-family: "Open Sans";
   src: url('../fonts/open-sans-500-normal.woff2') format('woff2');
   font-weight: 500;
   font-style: normal;
