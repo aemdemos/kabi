@@ -1,0 +1,39 @@
+{
+  "variantName": "cards-gallery",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-01-16T08:48:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.wknd-trendsetters.site/fashion-insights",
+    "originPage": "Fashion Blog landing page - Style gallery section",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "gallery",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "image only",
+    "buttonCount": 0,
+    "imageCount": 6
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "photo galleries",
+      "image grids",
+      "visual showcases"
+    ],
+    "notSuitableFor": [
+      "article listings",
+      "product cards with text",
+      "team member grids"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/fashion-insights", "/fashion-trends-of-the-season"],
+    "reuseCount": 2,
+    "lastUsed": "2026-01-16T08:51:00.000Z"
+  }
+}
