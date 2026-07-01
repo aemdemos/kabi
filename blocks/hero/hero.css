@@ -5,12 +5,14 @@
   padding: 0;
 }
 
+/* Updated hero block styles */
 .hero {
   position: relative;
   padding: 40px 24px;
-  min-height: 300px;
+  min-height: 350px;
 }
 
+/* Hero text content styles */
 .hero h1,
 .hero h2,
 .hero h3,
@@ -42,9 +44,10 @@
   height: 100%;
 }
 
+/* Desktop responsive styles */
 @media (width >= 900px) {
   .hero {
-    padding: 40px 32px;
+    padding: 50px 32px;
   }
 }
 
