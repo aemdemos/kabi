@@ -1,0 +1,38 @@
+{
+  "variantName": "hero-blog",
+  "baseBlock": "hero",
+  "version": "1.0.0",
+  "created": "2026-01-16T08:48:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.wknd-trendsetters.site/fashion-insights",
+    "originPage": "Fashion Blog landing page",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "minimal",
+    "purpose": "blog-header",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "heading only",
+    "buttonCount": 0,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "blog post pages",
+      "article landing pages",
+      "content pages with full-height hero"
+    ],
+    "notSuitableFor": [
+      "pages needing CTA buttons",
+      "pages with subheadings or descriptions"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/fashion-insights"],
+    "reuseCount": 1,
+    "lastUsed": "2026-01-16T08:48:00.000Z"
+  }
+}
