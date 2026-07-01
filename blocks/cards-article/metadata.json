@@ -1,0 +1,39 @@
+{
+  "variantName": "cards-article",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-01-16T08:48:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.wknd-trendsetters.site/fashion-insights",
+    "originPage": "Fashion Blog landing page - Latest Articles section",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "article-listing",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "image + tag+date + heading",
+    "buttonCount": 0,
+    "imageCount": 4
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "blog article listings",
+      "news sections",
+      "content cards with metadata"
+    ],
+    "notSuitableFor": [
+      "product listings",
+      "team members",
+      "image-only galleries"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/fashion-insights"],
+    "reuseCount": 1,
+    "lastUsed": "2026-01-16T08:48:00.000Z"
+  }
+}
