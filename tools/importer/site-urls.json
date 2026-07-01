@@ -12,7 +12,8 @@
       "url": "https://www.kabi.es/aviso-legal",
       "source": "SITEMAPS",
       "targetPath": "/aviso-legal",
-      "id": "2dbd32f669c3ec861b1b9e5d93baa8d0cc3e9596"
+      "id": "2dbd32f669c3ec861b1b9e5d93baa8d0cc3e9596",
+      "status": "EXCLUDED"
     },
     {
       "url": "https://www.kabi.es/blog",
@@ -213,6 +214,5 @@
     "strategiesAttempted": [
       "SITEMAPS"
     ]
-  },
-  "extractionErrors": []
+  }
 }
