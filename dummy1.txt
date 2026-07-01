@@ -1,0 +1,4 @@
+This is dummy file number 1.
+
+Created for testing purposes.
+Contains placeholder content.

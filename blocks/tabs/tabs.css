@@ -18,6 +18,7 @@
   }
 }
 
+/* Tab button styling */
 .tabs .tabs-list button {
   flex: 0 0 max-content;
   margin: 0;
@@ -38,7 +39,6 @@
 .tabs .tabs-list button p {
   margin: 0;
 }
-
 
 .tabs .tabs-list button[aria-selected='true'] {
   border-bottom: 1px solid var(--background-color);
