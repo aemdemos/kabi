@@ -1,0 +1,40 @@
+{
+  "variantName": "hero-cta-light",
+  "baseBlock": "hero",
+  "version": "1.0.0",
+  "created": "2026-01-16T08:51:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.wknd-trendsetters.site/fashion-trends-of-the-season",
+    "originPage": "Fashion Trends of the Season landing page - CTA section",
+    "blockPosition": "bottom"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "moderate",
+    "purpose": "cta-banner",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "heading + paragraph + button",
+    "buttonCount": 1,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "CTA sections without background images",
+      "light-themed call-to-action banners",
+      "promotional sections with section styling",
+      "content pages with simple CTAs"
+    ],
+    "notSuitableFor": [
+      "dark hero sections",
+      "CTAs with background images",
+      "main page headers"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/fashion-trends-of-the-season"],
+    "reuseCount": 1,
+    "lastUsed": "2026-01-16T08:51:00.000Z"
+  }
+}
