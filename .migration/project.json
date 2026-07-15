@@ -1,8 +1,10 @@
 {
+  "type": "doc",
   "sites": {
     "kabi": {
       "previewOrg": "aemdemos",
-      "previewSite": "kabi"
+      "previewSite": "kabi",
+      "libraryUrl": "https://main--sta-boilerplate--aemdemos.aem.page/tools/sidekick/library.json"
     }
   }
 }
