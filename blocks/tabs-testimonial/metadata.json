@@ -1,0 +1,10 @@
+{
+  "variantName": "tabs-testimonial",
+  "baseBlock": "tabs",
+  "visualCharacteristics": "Tabbed testimonials: one large panel at a time (portrait image + name + role + quote), with a row of avatar tabs below/beside it. Each avatar tab shows a small round portrait, name, and role, and switches the active testimonial.",
+  "contentPattern": "One row per testimonial. Each row has a portrait image cell and a text cell (name + role + quote).",
+  "usage": "Use to showcase multiple testimonials or quotes that the reader can switch between via an avatar menu.",
+  "canonicalModel": "container",
+  "options": [],
+  "memberVariantIds": ["tabs-testimonial"]
+}

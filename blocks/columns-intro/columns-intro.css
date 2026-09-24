@@ -1,0 +1,45 @@
+/* columns-intro: two-column intro — text left, stacked images right */
+
+.columns-intro > div {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 32px;
+  align-items: center;
+}
+
+.columns-intro .columns-intro-text .button-group,
+.columns-intro .columns-intro-text p.button-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin-top: 24px;
+}
+
+/* Stacked image group */
+.columns-intro .columns-intro-media {
+  display: grid;
+  gap: 16px;
+}
+
+.columns-intro .columns-intro-media img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+@media (width >= 900px) {
+  .columns-intro > div {
+    grid-template-columns: 1fr 1fr;
+    gap: 48px;
+  }
+
+  .columns-intro .columns-intro-media {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  /* First image spans both columns for the intro's stacked layout */
+  .columns-intro .columns-intro-media picture:first-child,
+  .columns-intro .columns-intro-media img:first-child {
+    grid-column: 1 / -1;
+  }
+}

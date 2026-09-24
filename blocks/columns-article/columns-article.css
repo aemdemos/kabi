@@ -1,0 +1,29 @@
+/* columns-article: two-column featured row — image left, article meta right */
+
+.columns-article > div {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+  align-items: center;
+}
+
+.columns-article .columns-article-media img {
+  width: 100%;
+  height: auto;
+  display: block;
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+}
+
+.columns-article .columns-article-text {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+@media (width >= 900px) {
+  .columns-article > div {
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+  }
+}

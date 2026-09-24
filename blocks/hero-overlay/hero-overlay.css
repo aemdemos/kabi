@@ -1,0 +1,60 @@
+/* hero-overlay: full-bleed background image with dark scrim and overlaid text */
+
+.hero-overlay {
+  position: relative;
+  display: grid;
+  min-height: 360px;
+  overflow: hidden;
+  align-items: center;
+}
+
+.hero-overlay > div {
+  grid-area: 1 / 1;
+}
+
+/* Background image layer */
+.hero-overlay .hero-overlay-background {
+  position: relative;
+  z-index: 0;
+}
+
+.hero-overlay .hero-overlay-background picture,
+.hero-overlay .hero-overlay-background img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Dark scrim sits above the image, below the content */
+.hero-overlay .hero-overlay-scrim {
+  position: absolute;
+  inset: 0;
+  background: rgb(0 0 0 / 55%);
+}
+
+/* Text content layer */
+.hero-overlay .hero-overlay-content {
+  position: relative;
+  z-index: 1;
+  padding: 48px 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.hero-overlay.no-image .hero-overlay-content {
+  padding: 48px 24px;
+}
+
+@media (width >= 900px) {
+  .hero-overlay {
+    min-height: 480px;
+  }
+
+  .hero-overlay .hero-overlay-content {
+    padding: 64px 48px;
+  }
+}

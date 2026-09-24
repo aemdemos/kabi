@@ -1,0 +1,10 @@
+{
+  "variantName": "cards-article",
+  "baseBlock": "cards",
+  "visualCharacteristics": "A grid of four article cards. Each card is a linked tile with a cover image, a category tag pill, a date, and an H3 title. One column on mobile, two on tablet, four on desktop.",
+  "contentPattern": "One row per card. Each row has an image cell and a body cell (category tag + date + title).",
+  "usage": "Use for a 'latest articles' listing where each entry links to a blog post and shows its category, date, and title.",
+  "canonicalModel": "container",
+  "options": [],
+  "memberVariantIds": ["cards-article"]
+}

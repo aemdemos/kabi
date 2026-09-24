@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "projectType": "doc"
+  },
+  "templates": [
+    {
+      "name": "home",
+      "urls": [
+        "https://www.wknd-trendsetters.site/"
+      ],
+      "representativeUrl": "https://www.wknd-trendsetters.site/",
+      "description": "WKND Trendsetters homepage: intro columns, featured case-study columns, photo gallery, tabbed testimonials, latest-articles cards, FAQ accordion, and an overlay CTA banner.",
+      "urlPattern": "/",
+      "blocks": [
+        {
+          "name": "columns-intro",
+          "instances": [
+            "header.secondary-section .grid-layout.tablet-1-column.grid-gap-xxl"
+          ]
+        },
+        {
+          "name": "columns-article",
+          "instances": [
+            ".grid-layout.tablet-1-column.grid-gap-lg"
+          ]
+        },
+        {
+          "name": "cards-gallery",
+          "instances": [
+            ".grid-layout.desktop-4-column.tablet-2-column-1.mobile-portrait-1-column.grid-gap-sm"
+          ]
+        },
+        {
+          "name": "tabs-testimonial",
+          "instances": [
+            ".tabs-wrapper"
+          ]
+        },
+        {
+          "name": "cards-article",
+          "instances": [
+            ".grid-layout.desktop-4-column.tablet-2-column-1.mobile-portrait-1-column.grid-gap-md"
+          ]
+        },
+        {
+          "name": "accordion-faq",
+          "instances": [
+            ".faq-list"
+          ]
+        },
+        {
+          "name": "hero-overlay",
+          "instances": [
+            ".inverse-section .grid-layout.desktop-1-column"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "id": "rc1",
+          "name": "intro",
+          "selector": ["#main-content > header.section.secondary-section"],
+          "style": "secondary",
+          "blocks": ["columns-intro"],
+          "defaultContent": []
+        },
+        {
+          "id": "rc2",
+          "name": "featured-article",
+          "selector": ["#main-content > section.section:nth-of-type(1)"],
+          "style": null,
+          "blocks": ["columns-article"],
+          "defaultContent": []
+        },
+        {
+          "id": "rc3",
+          "name": "gallery",
+          "selector": ["#main-content > section.section.secondary-section:nth-of-type(2)"],
+          "style": "secondary",
+          "blocks": ["cards-gallery"],
+          "defaultContent": [".utility-text-align-center"]
+        },
+        {
+          "id": "rc4",
+          "name": "testimonials",
+          "selector": ["#main-content > section.section:nth-of-type(3)"],
+          "style": null,
+          "blocks": ["tabs-testimonial"],
+          "defaultContent": []
+        },
+        {
+          "id": "rc5",
+          "name": "latest-articles",
+          "selector": ["#main-content > section.section.secondary-section:nth-of-type(4)"],
+          "style": "secondary",
+          "blocks": ["cards-article"],
+          "defaultContent": [".utility-text-align-center"]
+        },
+        {
+          "id": "rc6",
+          "name": "faq",
+          "selector": ["#main-content > section.section:nth-of-type(5)"],
+          "style": null,
+          "blocks": ["accordion-faq"],
+          "defaultContent": [".grid-layout.tablet-1-column.grid-gap-xxl > div:first-child"]
+        },
+        {
+          "id": "rc7",
+          "name": "cta-banner",
+          "selector": ["#main-content > section.section.inverse-section"],
+          "style": null,
+          "blocks": ["hero-overlay"],
+          "defaultContent": []
+        }
+      ]
+    }
+  ]
+}

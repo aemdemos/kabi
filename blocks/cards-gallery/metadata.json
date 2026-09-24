@@ -1,0 +1,10 @@
+{
+  "variantName": "cards-gallery",
+  "baseBlock": "cards",
+  "visualCharacteristics": "A grid of eight square, image-only tiles (no text). Two columns on mobile, four columns on larger screens. Used as a photo gallery.",
+  "contentPattern": "One row per image; each row is a single cell containing one image.",
+  "usage": "Use for an image-only photo gallery / snapshot grid where no captions are needed.",
+  "canonicalModel": "container",
+  "options": [],
+  "memberVariantIds": ["cards-gallery"]
+}

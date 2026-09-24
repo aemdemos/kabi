@@ -1,0 +1,10 @@
+{
+  "variantName": "hero-overlay",
+  "baseBlock": "hero",
+  "visualCharacteristics": "Full-width overlay banner: a background cover image with a dark scrim, overlaid with a heading, subheading, and a single CTA button. Text is light-on-dark and vertically centered.",
+  "contentPattern": "Row 1: background image. Row 2: heading + subheading + CTA button.",
+  "usage": "Use for a prominent full-bleed call-to-action banner where text sits over a photographic background.",
+  "canonicalModel": "standalone",
+  "options": [],
+  "memberVariantIds": ["hero-overlay"]
+}
