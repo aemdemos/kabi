@@ -1,0 +1,10 @@
+{
+  "variantName": "columns-intro",
+  "baseBlock": "columns",
+  "visualCharacteristics": "Two-column intro row on a light/secondary background. Left column holds a large heading, a subheading, and two CTA buttons; right column holds a stacked group of three cover images.",
+  "contentPattern": "Single row, two cells. Cell 1: heading + subheading + button group. Cell 2: three images.",
+  "usage": "Use at the top of a page as a hero-style intro that pairs a text call-to-action with a cluster of supporting images.",
+  "canonicalModel": "standalone",
+  "options": [],
+  "memberVariantIds": ["columns-intro"]
+}

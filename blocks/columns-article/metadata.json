@@ -1,0 +1,10 @@
+{
+  "variantName": "columns-article",
+  "baseBlock": "columns",
+  "visualCharacteristics": "Two-column featured/case-study row on a white background. Left column is a single 3:2 cover image; right column holds a breadcrumb, an H2 heading, and an author/date/read-time meta line.",
+  "contentPattern": "Single row, two cells. Cell 1: image. Cell 2: breadcrumb + heading + author meta.",
+  "usage": "Use to feature a single article or case study with its cover image alongside its title and byline.",
+  "canonicalModel": "standalone",
+  "options": [],
+  "memberVariantIds": ["columns-article"]
+}

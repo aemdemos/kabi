@@ -1,0 +1,10 @@
+{
+  "variantName": "accordion-faq",
+  "baseBlock": "accordion",
+  "visualCharacteristics": "A vertical list of expandable question/answer pairs. Each question row has a bold label and a plus/minus indicator; expanding reveals the answer text below. Built on native details/summary.",
+  "contentPattern": "One row per FAQ. Each row has a question cell and an answer cell.",
+  "usage": "Use for a frequently-asked-questions section where each question expands to reveal its answer.",
+  "canonicalModel": "container",
+  "options": [],
+  "memberVariantIds": ["accordion-faq"]
+}

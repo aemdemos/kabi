@@ -1,0 +1,33 @@
+/* cards-gallery: responsive grid of square, image-only tiles */
+
+.cards-gallery ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+}
+
+.cards-gallery li {
+  margin: 0;
+}
+
+.cards-gallery .cards-gallery-image {
+  overflow: hidden;
+}
+
+.cards-gallery .cards-gallery-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+@media (width >= 600px) {
+  .cards-gallery ul {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+  }
+}
